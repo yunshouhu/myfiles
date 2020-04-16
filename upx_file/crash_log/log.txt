@@ -1,0 +1,1109 @@
+--------- beginning of system
+04-16 15:10:53.473   913  1214 W NetworkStatsRecorder: unknown interfaces [p2p0, lo], ignoring those stats
+04-16 15:10:56.512   913  1772 W NetworkStatsRecorder: unknown interfaces [p2p0, lo], ignoring those stats
+04-16 16:37:33.271   913  6120 I chatty  : uid=1000(system) Binder:913_16 expire 6 lines
+04-16 16:37:33.272   913  6120 W NetworkStatsRecorder: unknown interfaces [p2p0, lo], ignoring those stats
+--------- beginning of main
+04-16 16:37:33.763 17904 28149 I ADB_SERVICES: post waitpid (pid=28148) status=0000
+04-16 16:37:35.395  3918 28151 E         : nFreeSize: 33303224320
+04-16 16:37:36.310   913 17199 W NetworkStatsRecorder: unknown interfaces [p2p0, lo], ignoring those stats
+04-16 16:37:36.653  1760  1945 W System  : ClassLoader referenced unknown path: system/framework/mediatek-cta.jar
+04-16 16:37:36.655  1760  1945 I System.out: e:java.lang.ClassNotFoundException: com.mediatek.cta.CtaHttp
+04-16 16:37:36.655  1760  1945 I System.out: [OkHttp] sendRequest>>
+04-16 16:37:36.656  1760  1945 I System.out: [OkHttp] sendRequest<<
+04-16 16:37:36.743  1760  1945 W System  : ClassLoader referenced unknown path: system/framework/mediatek-cta.jar
+04-16 16:37:36.744  1760  1945 I System.out: e:java.lang.ClassNotFoundException: com.mediatek.cta.CtaHttp
+04-16 16:37:36.744  1760  1945 I System.out: [OkHttp] sendRequest>>
+04-16 16:37:36.745  1760  1945 I System.out: [OkHttp] sendRequest<<
+04-16 16:37:37.241 17904 17904 I ADB_SERVICES: service_to_fd shell:export ANDROID_LOG_TAGS="''"; exec logcat
+04-16 16:37:37.463  1335  1457 I VivoNetworkController: SystemUI|mWifiEnabled && mWifiConnected = true, mWifiLevelIconId = 2131233059, mWifiActivityIconId = 2131233054
+04-16 16:37:37.480   407  2066 I BufferQueueProducer: [StatusBar#0](this:0x7857cdc800,id:8,api:1,p:1335,c:407) queueBuffer: fps=0.10 dur=10234.81 max=10234.81 min=10234.81
+04-16 16:37:37.496   407   407 I DisplayDevice: [Built-in Screen (type:0)] fps:0.097617,dur:10244.07,max:10244.07,min:10244.07
+04-16 16:37:38.113  2146  5084 I _V_RMS-Reclaim: available=3351436KB, current watermark=1126400KB, last watermark=1126400KB, current stopline=800, last stopline=1000
+04-16 16:37:38.113  2146  5084 I _V_RMS-Reclaim: Reclaiming took : 1ms
+04-16 16:37:38.465  1335  1457 I VivoNetworkController: SystemUI|mWifiEnabled && mWifiConnected = true, mWifiLevelIconId = 2131233059, mWifiActivityIconId = 0
+04-16 16:37:38.482   407  2066 I BufferQueueProducer: [StatusBar#0](this:0x7857cdc800,id:8,api:1,p:1335,c:407) queueBuffer: fps=1.00 dur=1002.37 max=1002.37 min=1002.37
+04-16 16:37:38.497   407   407 I DisplayDevice: [Built-in Screen (type:0)] fps:0.998834,dur:1001.17,max:1001.17,min:1001.17
+04-16 16:37:38.551  2770  2770 I Launcher.CustomLayoutContainer: isInterceptTouchEvent, mIntercept: false, mIsMoving: false
+04-16 16:37:38.572   407   432 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher#0](this:0x784d65e000,id:182,api:1,p:2770,c:407) queueBuffer: fps=0.08 dur=25494.17 max=25313.68 min=180.49
+04-16 16:37:38.623  2770  2770 I Launcher.CustomLayoutContainer: isInterceptTouchEvent, mIntercept: false, mIsMoving: false
+04-16 16:37:38.623  1777  1777 D ScreenShotGesture: updateInputFilter enable = false ,isFilterEnable = false ,isMiniscreen = false,mIsAccessibilityServiceEnable = false
+04-16 16:37:38.624  2770  2770 D Launcher:  click shortcut info is ShortcutInfo(title=seckey_cpp_demo intent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x30200000 cmp=com.yunshouhu.hellojni/.MainActivity bnds=[801,425][1047,673] (has extras) } id=345 type=30 installType=-1 appFlag=0 appClassfication=NONE container=-100 screen=4 cellX=3 cellY=1 isGesture=false dropPos=null)
+04-16 16:37:36.311   913 17199 I chatty  : uid=1000(system) Binder:913_18 identical 2 lines
+04-16 16:37:36.311   913 17199 W NetworkStatsRecorder: unknown interfaces [p2p0, lo], ignoring those stats
+04-16 16:37:38.625   913  6120 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x30200000 cmp=com.yunshouhu.hellojni/.MainActivity bnds=[801,425][1047,673] (has extras)} from uid 10035
+04-16 16:37:38.625   913  6120 I ActivityManager: send message.
+04-16 16:37:38.626  1569  1583 I SLService1: ActivityController mIsAndroidN_VivoMultiWindow = true, mIsMultiWindowOn = false
+04-16 16:37:38.626  1569  1583 I SLService1: [Monitor]1--------[] t [com.yunshouhu.hellojni] f []
+04-16 16:37:38.626  1569  1583 I SLService1: HAHA1 >>>> true <<<<
+04-16 16:37:38.626   913  6120 I ActivityManager: remove message.
+04-16 16:37:38.626   913  6120 I ActivityManager: send message.
+04-16 16:37:38.626  1569  1583 D SLService: optionsFromCallbacks = null
+04-16 16:37:38.627   913  6120 I ActivityManager: remove message.
+04-16 16:37:38.629   400   425 I vendor.mediatek.hardware.power@1.1-impl: PowerHint hint:8, data:1
+04-16 16:37:38.630   400   424 I libPerfService: 8: legacy set freq: 1989000 -1 1989000 -1
+04-16 16:37:38.632   913  6120 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:38.634  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:38.634  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:38.637   389 19736 E gralloc : Failed to allocate buffer.
+04-16 16:37:38.637   913  6120 E GraphicBufferAllocator: Failed to allocate (151 x 151) layerCount 1 format -3 usage 2: 5
+04-16 16:37:38.637   913  6120 I WindowManager: overridePendingAppTransitionThumbFromLauncher, bmpWidth = null, bmpHeight = null, startX = 848, startY = 454, scaleUp = true, animateExit = true, isTransitionSet() = true, mNextAppTransitionType = 0
+04-16 16:37:38.637   913  6120 I WindowManager: after overridePendingAppTransitionThumbFromLauncher
+04-16 16:37:38.638  2770  2770 D Launcher: startActivitySafely success ? true
+04-16 16:37:38.638  2770  2770 D Launcher: onPause -- mState = WORKSPACE
+04-16 16:37:38.638   913   981 I DecorView: setWindowBackground mBackgroundPadding = Rect(0, 0 - 0, 0), mFramePadding = Rect(0, 0 - 0, 0), pkg = com.yunshouhu.hellojni
+04-16 16:37:38.639   913 17199 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:38.640   913   981 D WindowClient: Add to mViews: DecorView@1387437[hellojni], this = android.view.WindowManagerGlobal@b1d70aa
+04-16 16:37:38.640   913   981 D ViewRootImpl[hellojni]: hardware acceleration = false , fakeHwAccelerated = true, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+04-16 16:37:38.640   913   994 D DuraSpeed/DSPolicyBase: [setCurrentLauncher] = com.bbk.launcher2
+04-16 16:37:38.641   913   994 D DuraSpeed/AWSManager: [setCurrentLauncher] = com.bbk.launcher2
+04-16 16:37:38.642   913   994 D DuraSpeed/DuraSpeedInternalManager: switchState currentPackage = com.yunshouhu.hellojni, event =1004
+04-16 16:37:38.643   913   994 D DuraSpeed/DuraSpeedInternalManager: switchState end
+04-16 16:37:38.645   913   981 I CatcherGestureDetector: DecorView onAttached
+04-16 16:37:38.647  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:38.647  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:38.649   407   407 I BufferQueue: [unnamed-407-191](this:0x784d70d000,id:191,api:0,p:-1,c:-1) BufferQueue core=(407:/system/bin/surfaceflinger)
+04-16 16:37:38.649   407   407 W GuiExt  : Cannot find GuiExtService
+04-16 16:37:38.649   407   407 I BufferQueueConsumer: [unnamed-407-191](this:0x784d70d000,id:191,api:0,p:-1,c:407) connect(C): consumer=(407:/system/bin/surfaceflinger) controlledByApp=false
+04-16 16:37:38.649   407   407 I BufferQueueConsumer: [unnamed-407-191](this:0x784d70d000,id:191,api:0,p:-1,c:407) setConsumerName: unnamed-407-191
+04-16 16:37:38.649   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d70d000,id:191,api:0,p:-1,c:407) setConsumerName: Splash Screen com.yunshouhu.hellojni#0
+04-16 16:37:38.649   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d70d000,id:191,api:0,p:-1,c:407) setDefaultBufferSize: width=1080 height=2280
+04-16 16:37:38.651   407   407 I BufferQueue: [unnamed-407-192](this:0x7857506000,id:192,api:0,p:-1,c:-1) BufferQueue core=(407:/system/bin/surfaceflinger)
+04-16 16:37:38.651   407   407 W GuiExt  : Cannot find GuiExtService
+04-16 16:37:38.651   407   407 I BufferQueueConsumer: [unnamed-407-192](this:0x7857506000,id:192,api:0,p:-1,c:407) connect(C): consumer=(407:/system/bin/surfaceflinger) controlledByApp=false
+04-16 16:37:38.651   407   407 I BufferQueueConsumer: [unnamed-407-192](this:0x7857506000,id:192,api:0,p:-1,c:407) setConsumerName: unnamed-407-192
+04-16 16:37:38.651   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni:Inset#0](this:0x7857506000,id:192,api:0,p:-1,c:407) setConsumerName: Splash Screen com.yunshouhu.hellojni:Inset#0
+04-16 16:37:38.651   913 17199 I ActivityManager: Start proc 28156:com.yunshouhu.hellojni/u0a420 for activity com.yunshouhu.hellojni/.MainActivity
+04-16 16:37:38.652   407   407 I BufferQueue: [unnamed-407-193](this:0x7857507800,id:193,api:0,p:-1,c:-1) BufferQueue core=(407:/system/bin/surfaceflinger)
+04-16 16:37:38.653   407   407 W GuiExt  : Cannot find GuiExtService
+04-16 16:37:38.653   407   407 I BufferQueueConsumer: [unnamed-407-193](this:0x7857507800,id:193,api:0,p:-1,c:407) connect(C): consumer=(407:/system/bin/surfaceflinger) controlledByApp=false
+04-16 16:37:38.653   407   407 I BufferQueueConsumer: [unnamed-407-193](this:0x7857507800,id:193,api:0,p:-1,c:407) setConsumerName: unnamed-407-193
+04-16 16:37:38.653   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x7857507800,id:193,api:0,p:-1,c:407) setConsumerName: Splash Screen com.yunshouhu.hellojni:Inset:Sub#0
+04-16 16:37:38.653   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x7857507800,id:193,api:0,p:-1,c:407) setDefaultBufferSize: width=1 height=1
+04-16 16:37:38.654   913   981 D WindowManager: activity is force full screen activity: false
+04-16 16:37:38.655 28156 28156 I zygote  : Late-enabling -Xcheck:jni
+04-16 16:37:38.656  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:38.656  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:38.660  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:38.660  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:38.661  1860  1872 D HomeIndicatorController: UpSlide|handleNotifySystemBarColor: topClassName= com.bbk.launcher2/com.bbk.launcher2.Launcher  ,CoverColor= fff6f6f6,isIconsDark=true,mIsIconsDark = false ,VisState= -1
+04-16 16:37:38.661  1860  1872 D IndicatorState: UpSlide|setIndicatorVisState: mIndicatorVisState= 10, state= -1
+04-16 16:37:38.661  1860  1860 D IndicatorStyle: UpSlide|setIconsDark: mIsIconsDark= false, dark= true, force= false
+04-16 16:37:38.661  1860  1860 D IndicatorStyle: UpSlide|applyIndicatorTint: mIsIconsDark= true
+04-16 16:37:38.663  1842  2052 D _V_AIE-ActivityMonitor: notifyActivityPaused ActivityInfo{componentName=ComponentInfo{com.bbk.launcher2/com.bbk.launcher2.Launcher}, packageInfo=PackageInfo{9a21f6b com.bbk.launcher2}}
+04-16 16:37:38.663  1842  2052 D _V_AIE-PageGrab-PageGrabManager: [onActivityPaused]
+04-16 16:37:38.663   913   981 D Surface : lockCanvas
+04-16 16:37:38.663   913   981 D Surface : Surface::connect(this=0x733d85c000,api=2)
+04-16 16:37:38.663  3634  3703 D _V_ContentCatcher-TouchCatcherService: cur package = com.bbk.launcher2 class = com.bbk.launcher2.Launcher
+04-16 16:37:38.663   407   432 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d70d000,id:191,api:2,p:913,c:407) connect(P): api=2 producer=(913:system_server) producerControlledByApp=false
+04-16 16:37:38.666  1842 28161 D _V_AIE-LocalPersistence: [insert]  BaseEventTableManager = class com.vivo.awarecontext.persistence.db.collect.event.FgPageEventTableManager
+04-16 16:37:38.672   913   981 D Surface : lockCanvas
+04-16 16:37:38.673   913   981 D Surface : Surface::connect(this=0x733d939000,api=2)
+04-16 16:37:38.673   407   432 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x7857507800,id:193,api:2,p:913,c:407) connect(P): api=2 producer=(913:system_server) producerControlledByApp=false
+04-16 16:37:38.673  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:38.673  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:38.675   913 17199 D WindowManager: activity is force full screen activity: false
+04-16 16:37:38.675   913   981 D Surface : lockCanvas
+04-16 16:37:38.675   913   981 D Surface : Surface::connect(this=0x733d880000,api=2)
+04-16 16:37:38.675   407   432 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni:Inset#0](this:0x7857506000,id:192,api:2,p:913,c:407) connect(P): api=2 producer=(913:system_server) producerControlledByApp=false
+04-16 16:37:38.679   407   433 I BufferQueueProducer: [HomeIndicator#0](this:0x78575fd800,id:164,api:1,p:1860,c:407) queueBuffer: fps=0.08 dur=26107.61 max=25639.70 min=467.91
+04-16 16:37:38.679  1335  1335 D ImageWallpaper: onOffsetsChanged: xOffset=0.0, yOffset=0.0, xOffsetStep=0.0, yOffsetStep=0.0, xPixels=0, yPixels=0
+04-16 16:37:38.679   407   407 E SurfaceFlinger: [Splash Screen com.yunshouhu.hellojni:Inset#0] rejecting buffer: bufWidth=1, bufHeight=1, front.active.{w=1080, h=0}
+04-16 16:37:38.680   407   407 I SurfaceFlinger: frameMissed
+04-16 16:37:38.680  1335  1335 D ImageWallpaper: drawFrame, newRotation:0 mLastRotation:0
+04-16 16:37:38.680  1335  1335 D ImageWallpaper: drawFrame, frame size:1080/2280; ForceDraw : false
+04-16 16:37:38.680  1335  1335 D ImageWallpaper: Suppressed drawFrame since redraw is not needed and offsets have not changed.
+04-16 16:37:38.680  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:38.680  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:38.689  1842 28161 D _V_AIE-DbEventDispatcher: FgPageEvent changed【insert rowIds [7394]】【update count 0】【delete count 0】
+04-16 16:37:38.690  1842  2389 D _V_AIE-DbEventDispatcher: handleInsertEvent rowId is 7394
+04-16 16:37:38.696   913  6120 D WindowManager: activity is force full screen activity: false
+04-16 16:37:38.699  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:38.699  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:38.702  1569  2110 D Settings/BW: ReadCodeTask:mStringNotifyCode: 0
+04-16 16:37:38.702  1569  2110 D Settings/BW: ReadCodeTask:mNotifyCode: 0
+04-16 16:37:38.707   913  6120 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:38.708  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:38.708  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:38.710   913  6120 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = true
+04-16 16:37:38.711   913  6120 D WindowManager: activity is force full screen activity: false
+04-16 16:37:38.712  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:38.712  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:38.714   400   425 I vendor.mediatek.hardware.power@1.1-impl: notifyAppState pack:com.yunshouhu.hellojni, act:com.yunshouhu.hellojni.MainActivity, pid:28156, state:1
+04-16 16:37:38.715   400   424 I libPerfService: [perfNotifyAppState] foreground:com.yunshouhu.hellojni, pid:28156
+04-16 16:37:38.715   913   981 D VivoWifiUtil: onForegroundActivitiesChanged: pid=28156, uid=10420, foregroundActivities=true
+04-16 16:37:38.716   913   981 D VivoWifiUtil: mForgroundAppName=com.yunshouhu.hellojni, mLastForgroundAppName=com.yunshouhu.hellojni
+04-16 16:37:38.716   913   981 D VivoWifiUtil: handleForgrouneAppChanged oldApp:com.yunshouhu.hellojni, newApp:com.yunshouhu.hellojni
+04-16 16:37:38.716   913   981 D BBKTouchScreenServiceService: pakage name is com.yunshouhu.hellojniwith :10420
+04-16 16:37:38.716   913   981 D BBKTouchScreenServiceService: called and appName is [B@5cad709
+04-16 16:37:38.716  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.yunshouhu.hellojni/Splash Screen com.yunshouhu.hellojni}, statusBarIconStyle = 1, statusBarBgColor = ff00574b, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= false, isKeyguardShowing= false
+04-16 16:37:38.716  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= 1, animate= false, mIsLightFlag= false
+04-16 16:37:38.716  3401 16282 I FloatingBallDiplomat: FloatingBall|appTransitionStarting >> packageName =com.yunshouhu.hellojni activityName = com.yunshouhu.hellojni.MainActivity
+04-16 16:37:38.717   402   402 D touchscreen: 23 bytes have been write to app name
+04-16 16:37:38.717  2770  3064 D Surface : Surface::disconnect(this=0x7350272000,api=1)
+04-16 16:37:38.717  1301  4057 E _V_AppStatisticManager: addLruPkg pkgName = com.yunshouhu.hellojni
+04-16 16:37:38.717   407   432 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher#0](this:0x784d65e000,id:182,api:1,p:2770,c:407) disconnect(P): api 1
+04-16 16:37:38.717   407   432 I BufferQueueConsumer: [com.bbk.launcher2/com.bbk.launcher2.Launcher#0](this:0x784d65e000,id:182,api:1,p:-1,c:407) getReleasedBuffers: returning mask 0xffffffffffffffff
+04-16 16:37:38.718  4046 22154 I _V_SecureService2: onForegroundActivitiesChanged() pid = 28156, uid = 10420, foregroundActivities = true
+04-16 16:37:38.718  5073  5219 I _V_UsageAppManager: dealAppInfoList.getPid()=28156,dealAppInfoList.getUid()=10420,dealAppInfoList.getPkgName()=com.yunshouhu.hellojni
+04-16 16:37:38.718  5073  5219 I _V_UsageAppManager: dealAppInfoList_mForgroundInfo_pid=28156,mForgroundInfo_pkgName=com.yunshouhu.hellojni,mForgroundInfo_uid=10420,mBackgroundInfo_pid=2770,mBackgroundInfo_pkgName=com.bbk.launcher2,mBackgroundInfo_uid=10035
+04-16 16:37:38.718  2687  7621 I _V_LuckyMoneyService: mProcessObserver_doubleAppUid=99999
+04-16 16:37:38.718  2687  7621 I _V_LuckyMoneyService: mProcessObserver_mainAppUid=99999
+04-16 16:37:38.719  1842  3479 D _V_AIE-UsageDetailAppCollector: onForegroundActivityChanged_PID = 28156 ,uid = 10420 ,foregroundActivities = true
+04-16 16:37:38.719  1842  2475 D _V_AIE-UsageDetailAppCollector: dealAppInfoList.getPid()=28156,dealAppInfoList.getUid()=10420,dealAppInfoList.getPkgName()=com.yunshouhu.hellojni
+04-16 16:37:38.719  1301  5134 I _V_ABE  : PowerEngineService enter the forgound
+04-16 16:37:38.719  1842  2475 D _V_AIE-UsageDetailAppCollector: dealAppInfoList_mForgroundInfo_pid=28156,mForgroundInfo_pkgName=com.yunshouhu.hellojni,mForgroundInfo_uid=10420,mBackgroundInfo_pid=2770,mBackgroundInfo_pkgName=com.bbk.launcher2,mBackgroundInfo_uid=10035
+04-16 16:37:38.719  1569  2108 I MotorModeDaemonService: handleMessage--msg.what=1
+04-16 16:37:38.719  1569  1569 D GameModeManager: mSuspendGamesList:[]pkgName:com.yunshouhu.hellojni
+04-16 16:37:38.719  1842  2475 D _V_AIE-UsageDetailAppCollector: getversionCode=1
+04-16 16:37:38.719  1842  2475 D _V_AIE-UsageDetailAppCollector: getVersionName_name=1.0
+04-16 16:37:38.719  1842  2475 D _V_AIE-UsageDetailAppCollector: LBSLocationTask.getInstance().startLocation
+04-16 16:37:38.719  1842  2475 D _V_AIE-LBS-LBSLocationTask: startLocation callback: com.vivo.aiengine.services.collect.a.j$2@c4a530d  scaleTime: 600000
+04-16 16:37:38.720  1842  2475 D _V_AIE-LBS-LBSLocationTask: mLastLocation is Valid.
+04-16 16:37:38.720  1842  2475 D _V_AIE-UsageDetailAppCollector: onLocSuccess
+04-16 16:37:38.720  1569 25564 I SLService2: HAHA2 pid = 28156, uid = 10420, f = true
+04-16 16:37:38.720  5073  5219 I _V_UsageAppManager: getversionCode=1
+04-16 16:37:38.720  5073  5219 I _V_UsageAppManager: getVersionName_name=1.0
+04-16 16:37:38.720   913   998 D PowerManagerService: fgApp changed!
+04-16 16:37:38.721  1569  1583 I LocationDialogService: onForegroundActivitiesChanged() pid = 28156, uid = 10420, foregroundActivities = true
+04-16 16:37:38.721   913  1918 D NetworkPolicy: uid 10056 is allowed on unmetered network
+04-16 16:37:38.721  1569 23892 I ProxCoverNoticeService: isHomeLauncher = false
+04-16 16:37:38.721   913  1186 V NetworkStats: setKernelCounterSet uid=10420 set=1
+04-16 16:37:38.722   913  1261 D UserModifyRecorder: pakage name is com.yunshouhu.hellojni with :10420
+04-16 16:37:38.723  1860  1860 I UpSlideHelper: UpSlide|toggleUpSlideViewInCamera isInCamera = false
+04-16 16:37:38.724   913  6224 D WindowManager: activity is force full screen activity: false
+04-16 16:37:38.725  1569 23892 I ProxCoverNoticeService: top activity name = com.yunshouhu.hellojni
+04-16 16:37:38.725  1569  1583 I LocationDialogService: onForegroundActivitiesChanged name Process == com.yunshouhu.hellojni
+04-16 16:37:38.725  1569 23892 E ProxCoverNoticeService: monitor view is null, no need to update minimum
+04-16 16:37:38.725  1569 23892 I ProxCoverNoticeService: onForegroundActivitiesChanged, pid = 28156, uid = 10420, pkg = com.yunshouhu.hellojni, foregroundActivities = true
+04-16 16:37:38.726  1569  1569 I VivoDaemonServiceApp: notify mSuspendModeManager
+04-16 16:37:38.726  1569 23892 I ProxCoverNoticeService: isKeyguardLocked = false, isDeviceLocked = false, isKeyguardSecure = true, isDeviceSecure = true, inKeyguardRestrictedInputMode = false
+04-16 16:37:38.727  2687  7621 I _V_LuckyMoneyService: processInfo_pkgList[0]=com.yunshouhu.hellojni
+04-16 16:37:38.727  2687  7621 I _V_LuckyMoneyService: processInfo_processName=com.yunshouhu.hellojni
+04-16 16:37:38.727  2687  7621 I _V_LuckyMoneyService: processInfo_uid=10420
+04-16 16:37:38.728  2770  2770 D Launcher: onWindowFocusChanged ,  hasFocus = false
+04-16 16:37:38.729   407   407 W Layer   : [Splash Screen com.yunshouhu.hellojni#0] opaque layer with plane alpha:0.23 cannot be handled by hwcomposer
+04-16 16:37:38.732   407   407 I BufferQueueProducer: [FrameBufferSurface_0](this:0x7857ffc000,id:0,api:1,p:407,c:407) queueBuffer: fps=0.84 dur=26110.83 max=25443.88 min=14.36
+04-16 16:37:38.745   407   407 W Layer   : [Splash Screen com.yunshouhu.hellojni#0] opaque layer with plane alpha:0.74 cannot be handled by hwcomposer
+--------- beginning of crash
+04-16 16:37:38.749 28156 28156 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xd34e97b4 in tid 28156 (shouhu.hellojni), pid 28156 (shouhu.hellojni)
+04-16 16:37:38.760  1860  2153 I WhiteListHelper: UpSlide|isPkgHidedInVisitorMode >>> pkg = com.yunshouhu.hellojni, mHideIconList = null
+04-16 16:37:38.762   407   407 W Layer   : [Splash Screen com.yunshouhu.hellojni#0] opaque layer with plane alpha:1.00 cannot be handled by hwcomposer
+04-16 16:37:38.774  5179 16304 I FloatWindowManagerService: get top = com.yunshouhu.hellojni
+04-16 16:37:38.774  5179 16304 I FloatWindowManagerService:  ; lrp is : com.yunshouhu.hellojni ; tlp is : com.yunshouhu.hellojni
+04-16 16:37:38.775  5179 16304 I FloatWindowManagerService: cur n : com.yunshouhu.hellojni is not al , swi to al !
+04-16 16:37:38.780 28176 28176 I crash_dump32: obtaining output fd from tombstoned, type: kDebuggerdTombstone
+04-16 16:37:38.780   584   584 I /system/bin/tombstoned: received crash request for pid 28156
+04-16 16:37:38.782 28176 28176 I crash_dump32: performing dump of process 28156 (target tid = 28156)
+04-16 16:37:38.782 28156 28156 I libc    : orig_dumpable: 1
+04-16 16:37:38.782 28176 28176 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+04-16 16:37:38.782   390   477 W hwcomposer: [OVL] (0) No overlay input queue(2)  
+04-16 16:37:38.783   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69c00) Buffer queue is created with size(3)  
+04-16 16:37:38.783   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69c00) setConsumerListener  
+04-16 16:37:38.783 28176 28176 F DEBUG   : Build fingerprint: 'vivo/PD1801/PD1801:8.1.0/O11019/1560411816:user/release-keys'
+04-16 16:37:38.783 28176 28176 F DEBUG   : Revision: '0'
+04-16 16:37:38.783   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69c00) Reallocate Slot(0), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:38.783 28176 28176 F DEBUG   : ABI: 'arm'
+04-16 16:37:38.783 28176 28176 F DEBUG   : pid: 28156, tid: 28156, name: shouhu.hellojni  >>> com.yunshouhu.hellojni <<<
+04-16 16:37:38.783 28176 28176 F DEBUG   : signal 11 (SIGSEGV), code 2 (SEGV_ACCERR), fault addr 0xd34e97b4
+04-16 16:37:38.783 28176 28176 F DEBUG   :     r0 d34e97b4  r1 0000000a  r2 000487b4  r3 00323378
+04-16 16:37:38.783 28176 28176 F DEBUG   :     r4 f5980e10  r5 d34e97b4  r6 0000000b  r7 d34a6e48
+04-16 16:37:38.783 28176 28176 F DEBUG   :     r8 00000000  r9 00000016  sl d34a350f  fp 00000007
+04-16 16:37:38.783 28176 28176 F DEBUG   :     ip ff000000  sp ff94b088  lr f6fe0b41  pc d34e97b4  cpsr 60070010
+04-16 16:37:38.798   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69c00) Reallocate Slot(1), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:38.815   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69c00) Reallocate Slot(2), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:38.861 28176 28176 F DEBUG   : 
+04-16 16:37:38.861 28176 28176 F DEBUG   : backtrace:
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #00 pc 000197b4  <anonymous:d34d0000>
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #01 pc 00006b3f  /system/bin/linker (__dl__Z19call_ifunc_resolverj+6)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #02 pc 00007b4d  /system/bin/linker (__dl__ZN6soinfo8relocateI20plain_reloc_iteratorEEbRK14VersionTrackerOT_RK10LinkedListIS_19SoinfoListAllocatorESB_+308)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #03 pc 000072af  /system/bin/linker (__dl__ZN6soinfo10link_imageERK10LinkedListIS_19SoinfoListAllocatorES4_PK17android_dlextinfo+586)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #04 pc 0000491f  /system/bin/linker (__dl__Z14find_librariesP19android_namespace_tP6soinfoPKPKcjPS2_PNSt3__16vectorIS2_NS8_9allocatorIS2_EEEEjiPK17android_dlextinfobbRNS8_13unordered_mapIPKS1_9ElfReaderNS8_4hashISJ_EENS8_8equal_toISJ_EENSA_INS8_4pairIKSJ_SK_EEEEEEPNS9_IS0_NSA_IS0_EEEE+2042)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #05 pc 00005c53  /system/bin/linker (__dl__ZL12find_libraryP19android_namespace_tPKciPK17android_dlextinfoP6soinfo+66)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #06 pc 0000593b  /system/bin/linker (__dl__Z9do_dlopenPKciPK17android_dlextinfoPKv+1070)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #07 pc 000033f3  /system/bin/linker (__dl__ZL10dlopen_extPKciPK17android_dlextinfoPKv+38)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #08 pc 00001107  /system/lib/libdl.so (android_dlopen_ext+4)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #09 pc 000023bd  /system/lib/libnativeloader.so (android::OpenNativeLibrary(_JNIEnv*, int, char const*, _jobject*, _jstring*, bool*, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>>*)+252)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #10 pc 0024f4ad  /system/lib/libart.so (art::JavaVMExt::LoadNativeLibrary(_JNIEnv*, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>> const&, _jobject*, _jstring*, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>>*)+1432)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #11 pc 0000315f  /system/lib/libopenjdkjvm.so (JVM_NativeLoad+194)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #12 pc 00255771  /system/framework/arm/boot.oat (offset 0x1cc000) (java.lang.Runtime.nativeLoad+160)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #13 pc 00401775  /system/lib/libart.so (art_quick_invoke_stub_internal+68)
+04-16 16:37:38.861 28176 28176 F DEBUG   :     #14 pc 004069eb  /system/lib/libart.so (art_quick_invoke_static_stub+226)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #15 pc 000afadf  /system/lib/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+174)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #16 pc 00200bc7  /system/lib/libart.so (art::interpreter::ArtInterpreterToCompiledCodeBridge(art::Thread*, art::ArtMethod*, art::ShadowFrame*, unsigned short, art::JValue*)+226)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #17 pc 001fc149  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+592)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #18 pc 003ec8f5  /system/lib/libart.so (MterpInvokeStatic+184)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #19 pc 003f3d14  /system/lib/libart.so (ExecuteMterpImpl+14612)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #20 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #21 pc 001e7261  /system/lib/libart.so (art::interpreter::ArtInterpreterToInterpreterBridge(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*, art::JValue*)+148)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #22 pc 001fc131  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+568)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #23 pc 003ec787  /system/lib/libart.so (MterpInvokeDirect+250)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #24 pc 003f3c94  /system/lib/libart.so (ExecuteMterpImpl+14484)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #25 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #26 pc 001e7261  /system/lib/libart.so (art::interpreter::ArtInterpreterToInterpreterBridge(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*, art::JValue*)+148)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #27 pc 001fc131  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+568)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #28 pc 003eb8db  /system/lib/libart.so (MterpInvokeVirtual+482)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #29 pc 003f3b94  /system/lib/libart.so (ExecuteMterpImpl+14228)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #30 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #31 pc 001e7261  /system/lib/libart.so (art::interpreter::ArtInterpreterToInterpreterBridge(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*, art::JValue*)+148)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #32 pc 001fc131  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+568)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #33 pc 003ec8f5  /system/lib/libart.so (MterpInvokeStatic+184)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #34 pc 003f3d14  /system/lib/libart.so (ExecuteMterpImpl+14612)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #35 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #36 pc 001e71a9  /system/lib/libart.so (art::interpreter::EnterInterpreterFromEntryPoint(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*)+92)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #37 pc 003e11c9  /system/lib/libart.so (artQuickToInterpreterBridge+924)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #38 pc 00405cf1  /system/lib/libart.so (art_quick_to_interpreter_bridge+32)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #39 pc 00401775  /system/lib/libart.so (art_quick_invoke_stub_internal+68)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #40 pc 004069eb  /system/lib/libart.so (art_quick_invoke_static_stub+226)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #41 pc 000afadf  /system/lib/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+174)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #42 pc 000f82c1  /system/lib/libart.so (art::ClassLinker::InitializeClass(art::Thread*, art::Handle<art::mirror::Class>, bool, bool)+2228)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #43 pc 000e64e1  /system/lib/libart.so (art::ClassLinker::EnsureInitialized(art::Thread*, art::Handle<art::mirror::Class>, bool, bool)+116)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #44 pc 002f5f81  /system/lib/libart.so (art::Class_newInstance(_JNIEnv*, _jobject*)+868)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #45 pc 001cc1d3  /system/framework/arm/boot.oat (offset 0x1cc000) (java.lang.Object.internalClone [DEDUPED]+74)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #46 pc 00401775  /system/lib/libart.so (art_quick_invoke_stub_internal+68)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #47 pc 004068e5  /system/lib/libart.so (art_quick_invoke_stub+228)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #48 pc 000afabb  /system/lib/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+138)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #49 pc 00200bc7  /system/lib/libart.so (art::interpreter::ArtInterpreterToCompiledCodeBridge(art::Thread*, art::ArtMethod*, art::ShadowFrame*, unsigned short, art::JValue*)+226)
+04-16 16:37:38.862 28176 28176 F DEBUG   :     #50 pc 001fc149  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+592)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #51 pc 003eb8db  /system/lib/libart.so (MterpInvokeVirtual+482)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #52 pc 003f3b94  /system/lib/libart.so (ExecuteMterpImpl+14228)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #53 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #54 pc 001e7261  /system/lib/libart.so (art::interpreter::ArtInterpreterToInterpreterBridge(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*, art::JValue*)+148)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #55 pc 001fc131  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+568)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #56 pc 003eb8db  /system/lib/libart.so (MterpInvokeVirtual+482)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #57 pc 003f3b94  /system/lib/libart.so (ExecuteMterpImpl+14228)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #58 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #59 pc 001e7261  /system/lib/libart.so (art::interpreter::ArtInterpreterToInterpreterBridge(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*, art::JValue*)+148)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #60 pc 001fc131  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+568)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #61 pc 003ec787  /system/lib/libart.so (MterpInvokeDirect+250)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #62 pc 003f3c94  /system/lib/libart.so (ExecuteMterpImpl+14484)
+04-16 16:37:38.863 28176 28176 F DEBUG   :     #63 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:38.882   390   477 W hwcomposer: [OVL] (0) No overlay input queue(1)  
+04-16 16:37:38.882   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Buffer queue is created with size(3)  
+04-16 16:37:38.882   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) setConsumerListener  
+04-16 16:37:38.882   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Reallocate Slot(0), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:38.884   390   477 I hwcomposer: [OVL] (0) Overlay input(2) was used with queue previously  
+04-16 16:37:38.884   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69c00) Buffer queue is destroyed  
+04-16 16:37:38.884   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69c00) Free Slot(0), handle=0x7c03c56e00, 9849600 -> 0  
+04-16 16:37:38.884   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69c00) Free Slot(1), handle=0x7c03c56fc0, 9849600 -> 0  
+04-16 16:37:38.884   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69c00) Free Slot(2), handle=0x7c03c56b60, 9849600 -> 0  
+04-16 16:37:38.897   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Reallocate Slot(1), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:38.914   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Reallocate Slot(2), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:38.964   390   477 I hwcomposer: [OVL] (0) Overlay input(1) was used with queue previously  
+04-16 16:37:38.964   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Buffer queue is destroyed  
+04-16 16:37:38.964   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Free Slot(0), handle=0x7c03c56ee0, 9849600 -> 0  
+04-16 16:37:38.964   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Free Slot(1), handle=0x7c03c56b60, 9849600 -> 0  
+04-16 16:37:38.964   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Free Slot(2), handle=0x7c03c56fc0, 9849600 -> 0  
+04-16 16:37:38.982   913  1129 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:38.983  1335  1335 D ImageWallpaper: onVisibilityChanged: mVisible, visible=true, false
+04-16 16:37:38.983  1335  1335 D ImageWallpaper: Visibility changed to visible=false
+04-16 16:37:39.042   913  3489 E TouchFilter: setTouchFilter LOG Enable prameter: 0
+04-16 16:37:39.043   913  3489 D EventHub: Event Hub Touch Filter log is disabled
+04-16 16:37:39.043   913  3489 D EventHub: Event Hub Touch Filter is enabled
+04-16 16:37:39.069 28176 28176 I crash_dump: socket name: android:aee_aed32, sfd: 9
+04-16 16:37:39.070   811   811 D AEE_AED : $===AEE===AEE===AEE===$
+04-16 16:37:39.070   811   811 D AEE_AED : p 2 poll events 1 revents 1
+04-16 16:37:39.070   811   811 D AEE_AED : PPM cpu cores:8, online:8
+04-16 16:37:39.072   811   811 D AEE_AED : aed_main_fork_worker: generator 0xe8d95488, worker 0xffb20358, recv_fd 10
+04-16 16:37:39.073 28179 28179 V AEE_AED : dashboard_record_update() : rec->module = com.yunshouhu.hellojni 
+04-16 16:37:39.073 28179 28179 D AEE_AED : Skip duplicated exception ! 
+04-16 16:37:39.073 28179 28179 D AEE_AED : Exception Class: 3 
+04-16 16:37:39.073 28179 28179 D AEE_AED : Module: com.yunshouhu.hellojni 
+04-16 16:37:39.073 28179 28179 D AEE_AED : Count: 3 
+04-16 16:37:39.073 28179 28179 D AEE_AED : Last exception time: 1587026232 
+04-16 16:37:39.073 28179 28179 D AEE_AED :  
+04-16 16:37:39.073 28179 28179 V AEE_AED : aed_crash_dump_session - skipped 
+04-16 16:37:39.074 28176 28176 I crash_dump: crash_dump_notify exit
+04-16 16:37:39.074   811   811 D AEE_AED : clear ppm settings
+04-16 16:37:39.074   811   811 D AEE_AED : $===AEE===AEE===AEE===$
+04-16 16:37:39.075   584   584 E /system/bin/tombstoned: Tombstone written to: /data/tombstones/tombstone_02
+04-16 16:37:39.078  1569 23892 D SLService: ppCra : com.yunshouhu.hellojni pid : 28156
+04-16 16:37:39.078   913 28180 W ActivityManager:   Force finishing activity com.yunshouhu.hellojni/.MainActivity
+04-16 16:37:39.079   913 28180 I ActivityManager: vivoAdjustFocusedActivityStackLocked step1 r = ActivityRecord{7abdee0 u0 com.yunshouhu.hellojni/.MainActivity t25 f}, reason = finishActivity, mResumedActivity = ActivityRecord{7abdee0 u0 com.yunshouhu.hellojni/.MainActivity t25 f}
+04-16 16:37:39.081   913 28180 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:39.096   913 28180 I BufferQueue: [unnamed-913-14](this:0x734300d000,id:14,api:0,p:-1,c:-1) BufferQueue core=(913:system_server)
+04-16 16:37:39.097   913 28180 W GuiExt  : Cannot find GuiExtService
+04-16 16:37:39.097   913 28180 I BufferQueueConsumer: [unnamed-913-14](this:0x734300d000,id:14,api:0,p:-1,c:913) connect(C): consumer=(913:system_server) controlledByApp=false
+04-16 16:37:39.097   913 28180 I BufferQueueConsumer: [unnamed-913-14](this:0x734300d000,id:14,api:0,p:-1,c:913) setConsumerName: unnamed-913-14
+04-16 16:37:39.097   913 28180 I BufferQueueConsumer: [ScreenshotClient](this:0x734300d000,id:14,api:0,p:-1,c:913) setConsumerName: ScreenshotClient
+04-16 16:37:39.098   407  2066 D Surface : Surface::connect(this=0x785c901000,api=1)
+04-16 16:37:39.099   913 28180 I BufferQueueProducer: [ScreenshotClient](this:0x734300d000,id:14,api:1,p:407,c:913) connect(P): api=1 producer=(407:/system/bin/surfaceflinger) producerControlledByApp=false
+04-16 16:37:39.102   407   407 I SurfaceFlinger: screenshot (Splash Screen com.yunshouhu.hellojni#0)
+04-16 16:37:39.105   407  2066 D Surface : Surface::disconnect(this=0x785c901000,api=1)
+04-16 16:37:39.106   913 28180 I BufferQueueProducer: [ScreenshotClient](this:0x734300d000,id:14,api:1,p:407,c:913) disconnect(P): api 1
+04-16 16:37:39.106   913 28180 I BufferQueueConsumer: [ScreenshotClient](this:0x734300d000,id:14,api:1,p:-1,c:913) getReleasedBuffers: returning mask 0xffffffffffffffff
+04-16 16:37:39.123   913 28180 I BufferQueueConsumer: [ScreenshotClient](this:0x734300d000,id:14,api:1,p:-1,c:-1) disconnect(C)
+04-16 16:37:39.123   913 28180 I BufferQueue: [ScreenshotClient](this:0x734300d000,id:14,api:1,p:-1,c:-1) ~BufferQueueCore
+04-16 16:37:39.124   913 28180 W ActivityManager: Exception thrown during pause
+04-16 16:37:39.124   913 28180 W ActivityManager: android.os.DeadObjectException
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at android.os.BinderProxy.transactNative(Native Method)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at android.os.BinderProxy.transact(Binder.java:802)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at android.app.IApplicationThread$Stub$Proxy.schedulePauseActivity(IApplicationThread.java:1149)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at com.android.server.am.ActivityStack.startPausingLocked(ActivityStack.java:1516)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at com.android.server.am.ActivityStack.finishActivityLocked(ActivityStack.java:4382)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at com.android.server.am.ActivityStack.finishActivityLocked(ActivityStack.java:4304)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at com.android.server.am.ActivityStack.finishTopRunningActivityLocked(ActivityStack.java:4185)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at com.android.server.am.ActivityStackSupervisor.finishTopRunningActivityLocked(ActivityStackSupervisor.java:2452)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at com.android.server.am.AppErrors.handleAppCrashLocked(AppErrors.java:699)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at com.android.server.am.AppErrors.makeAppCrashingLocked(AppErrors.java:525)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at com.android.server.am.AppErrors.crashApplicationInner(AppErrors.java:396)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at com.android.server.am.AppErrors.crashApplication(AppErrors.java:341)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at com.android.server.am.ActivityManagerService.handleApplicationCrashInner(ActivityManagerService.java:16529)
+04-16 16:37:39.124   913 28180 W ActivityManager: 	at com.android.server.am.NativeCrashListener$NativeCrashReporter.run(NativeCrashListener.java:85)
+04-16 16:37:39.126   913 28180 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:39.128   400   425 I vendor.mediatek.hardware.power@1.1-impl: notifyAppState pack:com.bbk.launcher2, act:com.bbk.launcher2.Launcher, pid:2770, state:1
+04-16 16:37:39.128   400   424 I libPerfService: [perfNotifyAppState] foreground:com.bbk.launcher2, pid:2770
+04-16 16:37:39.131   406   406 E lowmemorykiller: Error opening /proc/28156/oom_score_adj; errno=2
+04-16 16:37:39.135   913  1771 D AES     : AEEIOCTL_GET/SET_SF_STATE IOCTL,cmd= 1074294797, lParam=0. 
+04-16 16:37:39.135   913  1771 D AES     : AEEIOCTL_RT_MON_Kick IOCTL,cmd= 2147774474, lParam=300. 
+04-16 16:37:39.138   913 28180 D WindowManager: activity is force full screen activity: false
+04-16 16:37:39.140   913 28180 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:39.142  1335  1335 D ImageWallpaper: onVisibilityChanged: mVisible, visible=false, true
+04-16 16:37:39.142  1335  1335 D ImageWallpaper: Visibility changed to visible=true
+04-16 16:37:39.142   913 28180 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:39.143  1335  1335 D ImageWallpaper: drawFrame, newRotation:0 mLastRotation:0
+04-16 16:37:39.143  1335  1335 D ImageWallpaper: drawFrame, frame size:1080/2280; ForceDraw : false
+04-16 16:37:39.143  1335  1335 D ImageWallpaper: Suppressed drawFrame since redraw is not needed and offsets have not changed.
+04-16 16:37:39.144  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.yunshouhu.hellojni/Splash Screen com.yunshouhu.hellojni}, statusBarIconStyle = 1, statusBarBgColor = ff00574b, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= false, isKeyguardShowing= false
+04-16 16:37:39.144  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= 1, animate= false, mIsLightFlag= false
+04-16 16:37:39.144  1860  1872 D HomeIndicatorController: UpSlide|handleNotifySystemBarColor: topClassName= Splash Screen com.yunshouhu.hellojni  ,CoverColor= ff000000,isIconsDark=false,mIsIconsDark = true ,VisState= -1
+04-16 16:37:39.144  1860  1872 D IndicatorState: UpSlide|setIndicatorVisState: mIndicatorVisState= 10, state= -1
+04-16 16:37:39.145  1860  1860 D IndicatorStyle: UpSlide|setIconsDark: mIsIconsDark= true, dark= false, force= false
+04-16 16:37:39.145  1860  1860 D IndicatorStyle: UpSlide|applyIndicatorTint: mIsIconsDark= false
+04-16 16:37:39.145   913 28180 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:39.146   913  3489 I ActivityManager: Process com.yunshouhu.hellojni (pid 28156) has died: vis  +99TOP 
+04-16 16:37:39.147   913   983 W zygote64: kill(-28156, 9) failed: No such process
+04-16 16:37:39.147   913   983 I zygote64: Successfully killed process cgroup uid 10420 pid 28156 in 0ms
+04-16 16:37:39.149   913   994 D DuraSpeed/DSPolicyBase: [setCurrentLauncher] = com.bbk.launcher2
+04-16 16:37:39.150   913  4032 I WindowManager: Relayout Window{4221355 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}: oldVis=8 newVis=0 focusMayChange = true
+04-16 16:37:39.150   913   994 D DuraSpeed/AWSManager: [setCurrentLauncher] = com.bbk.launcher2
+04-16 16:37:39.151   913   994 D DuraSpeed/DuraSpeedInternalManager: switchState currentPackage = com.bbk.launcher2, event =1004
+04-16 16:37:39.151   913  4032 D WindowManager: activity is force full screen activity: false
+04-16 16:37:39.151   913   994 D DuraSpeed/DuraSpeedInternalManager: switchState end
+04-16 16:37:39.153   913  4032 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:39.156  2770  2770 D Surface : Surface::allocateBuffers(this=0x7350272000)
+04-16 16:37:39.156  2770  3064 D Surface : Surface::connect(this=0x7350272000,api=1)
+04-16 16:37:39.156   913  1129 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:39.156   407   433 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher#0](this:0x784d65e000,id:182,api:1,p:2770,c:407) connect(P): api=1 producer=(2770:com.bbk.launcher2) producerControlledByApp=true
+04-16 16:37:39.159  2770  3064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, egl_color_buffer_format *, EGLBoolean) returns 0x3000
+04-16 16:37:39.160   913  3489 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:39.162   913  3470 D WindowManager: activity is force full screen activity: false
+04-16 16:37:39.162   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x7857507800,id:193,api:2,p:913,c:-1) disconnect(C)
+04-16 16:37:39.162   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d70d000,id:191,api:2,p:913,c:-1) disconnect(C)
+04-16 16:37:39.163   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni:Inset#0](this:0x7857506000,id:192,api:2,p:913,c:-1) disconnect(C)
+04-16 16:37:39.163   913  3489 D ActivityManager: reset multiwindow status for exit
+04-16 16:37:39.164   913  3470 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:39.165  1335  1335 D ImageWallpaper: onOffsetsChanged: xOffset=0.0, yOffset=0.0, xOffsetStep=0.0, yOffsetStep=0.0, xPixels=0, yPixels=0
+04-16 16:37:39.165  1335  1457 I VivoNetworkController: SystemUI|onSignalStrengthsChanged received on phoneId : 0, signalStrength = MtkSignalStrength: 99 -1 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 2147483647 0 -73 gsm|lte 0, level = 4, gsm level = 0, cdma level = 0
+04-16 16:37:39.165  1335  1457 I SIMAndNetworkHelper: SystemUI|isSIMInserted, phoneId = 0, mIsSIM1Insert = true, mIsSIM2Insert = false
+04-16 16:37:39.165  1335  1457 I VivoNetworkController: SystemUI|ss.getDataRegState() = 1, ss.getDataNetworkType() = 0, ss.getVoiceRegState() = 1, ss.getVoiceNetworkType() = 0
+04-16 16:37:39.165  1335  1457 I VivoNetworkController: SystemUI|updateTelephonySignalStrength, phoneId = 0, equals = false
+04-16 16:37:39.165  1335  1457 I VivoNetworkController: SystemUI|ss.getDataRegState() = 1, ss.getDataNetworkType() = 0, ss.getVoiceRegState() = 1, ss.getVoiceNetworkType() = 0
+04-16 16:37:39.165  1335  1457 I VivoNetworkController: SystemUI|No Service
+04-16 16:37:39.167  1335  1335 D ImageWallpaper: drawFrame, newRotation:0 mLastRotation:0
+04-16 16:37:39.167  1335  1335 D ImageWallpaper: drawFrame, frame size:1080/2280; ForceDraw : false
+04-16 16:37:39.167  1335  1335 D ImageWallpaper: Suppressed drawFrame since redraw is not needed and offsets have not changed.
+04-16 16:37:39.167  1335  1335 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-16 16:37:39.167  1335  1335 I SIMAndNetworkHelper: SystemUI|isSIMInserted, phoneId = 0, mIsSIM1Insert = true, mIsSIM2Insert = false
+04-16 16:37:39.167  1335  1335 I SIMAndNetworkHelper: SystemUI|isSIMInserted, phoneId = 1, mIsSIM1Insert = true, mIsSIM2Insert = false
+04-16 16:37:39.167  1335  1335 I SIMAndNetworkHelper: SystemUI|isSIMInserted, phoneId = 0, mIsSIM1Insert = true, mIsSIM2Insert = false
+04-16 16:37:39.167  1335  1335 I SIMAndNetworkHelper: SystemUI|isSIMInserted, phoneId = 1, mIsSIM1Insert = true, mIsSIM2Insert = false
+04-16 16:37:39.167   913  3489 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:39.169   913  3489 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:39.169   913  3489 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:39.171   913  3489 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:39.174   913   990 I vivo_debug_StackTransition: updateMulitWindowSpecifiedWindowDrawnState obj = Token{3389f0f ActivityRecord{fa82c6e u0 com.bbk.launcher2/.Launcher t2}}
+04-16 16:37:39.174   913   981 W ActivityManager: user_experience_improve_plan is open.Skipping crash dialog.
+04-16 16:37:39.174  1569 23892 D GameModeManager: isGameWatchAPP packageName:com.yunshouhu.hellojni
+04-16 16:37:39.174   913 28180 W AppErrors: com.yunshouhu.hellojni crash because Native crash
+04-16 16:37:39.175   913 20069 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:981 com.vivo.services.rms.ProcErrors$MyHandler.broadcast:99 com.vivo.services.rms.ProcErrors$MyHandler.handleMessage:88 android.os.Handler.dispatchMessage:106 android.os.Looper.loop:192 
+04-16 16:37:39.175   913   981 D VivoLocationNotify: onProcessDied: pid=28156, uid=10420
+04-16 16:37:39.175  1842  3479 D _V_AIE-UsageDetailAppCollector: onProcessDied_PID = 28156 ,uid = 10420
+04-16 16:37:39.175  1569 25564 W MotorModeDaemonService: process died pid : 28156 mMotorModePid: -1
+04-16 16:37:39.175   913  1211 D VivoLocationNotify: handleMessage 1
+04-16 16:37:39.175   913  1211 D VivoLocationNotify: getAppName com.yunshouhu.hellojni
+04-16 16:37:39.175   913  1211 D VivoLocationNotify: appName:com.yunshouhu.hellojni
+04-16 16:37:39.175  1842  2475 D _V_AIE-UsageDetailAppCollector: deleteDiedAppList_getUid()=10420
+04-16 16:37:39.175  1842  2475 D _V_AIE-UsageDetailAppCollector: deleteDiedAppList_getPid()=28156
+04-16 16:37:39.175  1842  2475 D _V_AIE-UsageDetailAppCollector: deleteDiedAppList_mForgroundInfo_pid=28156,mForgroundInfo_pkgName=com.yunshouhu.hellojni,mForgroundInfo_uid=10420,mBackgroundInfo_pid=2770,mBackgroundInfo_pkgName=com.bbk.launcher2,mBackgroundInfo_uid=10035
+04-16 16:37:39.175  5073  5219 I _V_UsageAppManager: deleteDiedAppList_getUid()=10420
+04-16 16:37:39.175  5073  5219 I _V_UsageAppManager: deleteDiedAppList_getPid()=28156
+04-16 16:37:39.175  5073  5219 I _V_UsageAppManager: deleteDiedAppList_mForgroundInfo_pid=28156,mForgroundInfo_pkgName=com.yunshouhu.hellojni,mForgroundInfo_uid=10420,mBackgroundInfo_pid=2770,mBackgroundInfo_pkgName=com.bbk.launcher2,mBackgroundInfo_uid=10035
+04-16 16:37:39.176   913  1261 D ScreenBrightnessModeRestore: pakage name is com.yunshouhu.hellojniwith :10420
+04-16 16:37:39.176   913  1261 D ScreenBrightnessModeRestore:  onProcessDiedInner, pid = 28156 , mCurrentForceGroundPid = 28156 mAppName: com.yunshouhu.hellojni mWaitToRestore=false
+04-16 16:37:39.176   913   998 D PowerManagerService: fgApp changed!
+04-16 16:37:39.176  1569  1569 I VivoDaemonServiceApp: notify mSuspendModeManager
+04-16 16:37:39.176   913 20069 I PackageManager: ### pkg:Package{72ba673 com.vivo.abe}
+04-16 16:37:39.176  5073  5219 I _V_UsageAppManager: getversionCode=1
+04-16 16:37:39.176  5073  5219 I _V_UsageAppManager: getVersionName_name=1.0
+04-16 16:37:39.176   913 20069 E ActivityManager: Sending non-protected broadcast com.vivo.perfdiagnosis.MSG_CENTER from system 913:system/1000 pkg android
+04-16 16:37:39.177   913 20069 E ActivityManager: Sending non-protected broadcast com.vivo.perfdiagnosis.MSG_CENTER from system 913:system/1000 pkg android
+04-16 16:37:39.177  5073  5219 I _V_UsageAppManager: getversionCode=1
+04-16 16:37:39.177  5073  5219 I _V_UsageAppManager: getVersionName_name=1.0
+04-16 16:37:39.177  1842  2475 D _V_AIE-UsageDetailAppCollector: getversionCode=1
+04-16 16:37:39.177  1842  2475 D _V_AIE-UsageDetailAppCollector: getVersionName_name=1.0
+04-16 16:37:39.178   913  3470 I WindowManager: overridePendingAppTransitionThumbFromLauncher, bmpWidth = null, bmpHeight = null, startX = 540, startY = 1140, scaleUp = false, animateExit = true, isTransitionSet() = true, mNextAppTransitionType = 0
+04-16 16:37:39.178   913  1261 D ScreenBrightnessModeRestore: mRunnable try to restore, mLastScreenBrightness: 37 mWaitToRestoreBrightness: false mWaitToRestoreMode: false mLastScreenMode: 1
+04-16 16:37:39.178   913  3470 I WindowManager: after overridePendingAppTransitionThumbFromLauncher
+04-16 16:37:39.179  5179 16304 I FloatWindowManagerService: get top = com.bbk.launcher2
+04-16 16:37:39.179   913   981 D View    : [Warning] assignParent to null: this = DecorView@1387437[hellojni]
+04-16 16:37:39.179   913   981 I CatcherGestureDetector: DecorView onDetached
+04-16 16:37:39.179   913   981 D Surface : Surface::disconnect(this=0x733d85c000,api=2)
+04-16 16:37:39.180   407   432 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d70d000,id:191,api:2,p:913,c:-1) disconnect(P): api 2
+04-16 16:37:39.180   913  1186 V NetworkStats: setKernelCounterSet uid=10420 set=0
+04-16 16:37:39.180  1842  2475 D _V_AIE-f: wifi enable
+04-16 16:37:39.181  1842  2475 D _V_AIE-UsageDetailAppCollector: getTemperature_temp=28.0
+04-16 16:37:39.181  1842  2475 D _V_AIE-UsageDetailAppCollector: silentOrVibrateMode=false
+04-16 16:37:39.181  2770  2770 D Launcher: onResume -- mState = WORKSPACE
+04-16 16:37:39.181  2770  2770 D Launcher: launcher onResume duration: 22
+04-16 16:37:39.182  5073  5146 V _V_SingleDBHelper: onOpen
+04-16 16:37:39.182  2770  2770 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = ViewRoot{858c57c com.bbk.launcher2/com.bbk.launcher2.Launcher,ident = 0}, this = DecorView@ab22b4e[Launcher]
+04-16 16:37:39.182  1842  2475 D _V_AIE-UsageDetailAppCollector: vibrateSetting=true
+04-16 16:37:39.183  1842  2475 D _V_AIE-UsageDetailAppCollector: checkflightModeValuee=0
+04-16 16:37:39.183  1842  2475 D _V_AIE-UsageDetailAppCollector: getNotificationNum=0
+04-16 16:37:39.183  1842  2475 D _V_AIE-UsageDetailAppCollector: paramsUpload succ
+04-16 16:37:39.185  1842  2475 D _V_AIE-UsageDetailAppCollector: getversionCode=1
+04-16 16:37:39.185  1842  2475 D _V_AIE-UsageDetailAppCollector: getVersionName_name=1.0
+04-16 16:37:39.185  1842  2475 D _V_AIE-UsageDetailAppCollector: LBSLocationTask.getInstance().startLocation
+04-16 16:37:39.185  1842  2475 D _V_AIE-LBS-LBSLocationTask: startLocation callback: com.vivo.aiengine.services.collect.a.j$2@a0182c2  scaleTime: 600000
+04-16 16:37:39.185  1842  2475 D _V_AIE-LBS-LBSLocationTask: mLastLocation is Valid.
+04-16 16:37:39.185  1842  2475 D _V_AIE-UsageDetailAppCollector: onLocSuccess
+04-16 16:37:39.185  2770  2770 D Launcher: onWindowFocusChanged ,  hasFocus = true
+04-16 16:37:39.187  2770  3068 D Surface : lockCanvas
+04-16 16:37:39.187  2770  3068 D Surface : Surface::connect(this=0x7350273000,api=2)
+04-16 16:37:39.187   407   432 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset:Sub#0](this:0x78575fc000,id:184,api:2,p:2770,c:407) connect(P): api=2 producer=(2770:com.bbk.launcher2) producerControlledByApp=true
+04-16 16:37:39.188  5179 16304 I FloatWindowManagerService: lst n : com.yunshouhu.hellojni is not al , swi to eg !
+04-16 16:37:39.188  1842  2052 D _V_AIE-ActivityMonitor: notifyActivityResumed ActivityInfo{componentName=ComponentInfo{com.bbk.launcher2/com.bbk.launcher2.Launcher}, packageInfo=PackageInfo{9e76c10 com.bbk.launcher2}}
+04-16 16:37:39.188  1842  2052 D _V_AIE-PageGrab-PageGrabManager: [onActivityResumed]
+04-16 16:37:39.188  1842  2052 D _V_AIE-PageGrab-PageGrabManager: FgPage changed, cancel all
+04-16 16:37:39.188   913  1129 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:39.188   913  3489 I PackageManager: ### pkg:Package{f376876 com.vivo.vtouch}
+04-16 16:37:39.188   913  3489 E ActivityManager: Sending non-protected broadcast vivo.vtouch.application.resumed from system 3634:com.vivo.contentcatcher/1000 pkg com.vivo.contentcatcher
+04-16 16:37:39.188   913   981 D Surface : Surface::disconnect(this=0x733d880000,api=2)
+04-16 16:37:39.189   913  3489 E ActivityManager: Sending non-protected broadcast vivo.vtouch.application.resumed from system 3634:com.vivo.contentcatcher/1000 pkg com.vivo.contentcatcher
+04-16 16:37:39.189   407   782 I BufferQueue: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d70d000,id:191,api:2,p:-1,c:-1) ~BufferQueueCore
+04-16 16:37:39.189   913  1129 D WindowManager: activity is force full screen activity: false
+04-16 16:37:39.189   407   433 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni:Inset#0](this:0x7857506000,id:192,api:2,p:913,c:-1) disconnect(P): api 2
+04-16 16:37:39.190  3728  3862 I _V_VTouch-TouchScan-j: onForegroundActivitiesChanged: ComponentInfo{com.bbk.launcher2/com.bbk.launcher2.Launcher}
+04-16 16:37:39.190  3728  3862 I _V_VTouch-TouchScan-j: mForegroundPackageName: com.bbk.launcher2,lastPackageName:com.bbk.launcher2
+04-16 16:37:39.190   913   981 D Surface : Surface::disconnect(this=0x733d939000,api=2)
+04-16 16:37:39.190   407   433 I BufferQueue: [Splash Screen com.yunshouhu.hellojni:Inset#0](this:0x7857506000,id:192,api:2,p:-1,c:-1) ~BufferQueueCore
+04-16 16:37:39.190   407  2331 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x7857507800,id:193,api:2,p:913,c:-1) disconnect(P): api 2
+04-16 16:37:39.192  3634  3703 D _V_ContentCatcher-TouchCatcherService: cur package = com.bbk.launcher2 class = com.bbk.launcher2.Launcher
+04-16 16:37:39.192  3634  3703 D _V_ContentCatcher-TouchCatcherService: [notifyFavoriteAppChange] mAllConfigComponents is null
+04-16 16:37:39.193  1860  1860 I UpSlideHelper: UpSlide|toggleUpSlideViewInCamera isInCamera = false
+04-16 16:37:39.193   913  2577 D InputMethodManagerService: windowGainedFocus isPasswordInputType:false
+04-16 16:37:39.193  3401 16282 I FloatingBallDiplomat: FloatingBall|appTransitionStarting >> packageName =com.bbk.launcher2 activityName = com.bbk.launcher2.Launcher
+04-16 16:37:39.194   913   981 W WindowManager: Failed looking up window callers=com.android.server.wm.WindowManagerService.windowForClientLocked:6744 com.android.server.wm.WindowManagerService.removeWindow:2045 com.android.server.wm.Session.remove:222 
+04-16 16:37:39.194  1842 28187 D _V_AIE-FgAppTrigger: activityResumed & resumedPkgName = com.bbk.launcher2
+04-16 16:37:39.194  1842 28187 D _V_AIE-FgPageTrigger: activityResumed & PackageName = com.bbk.launcher2
+04-16 16:37:39.194   913   981 D WindowClient: Remove from mViews: DecorView@1387437[hellojni], this = android.view.WindowManagerGlobal@b1d70aa
+04-16 16:37:39.194   407  2331 I BufferQueue: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x7857507800,id:193,api:2,p:-1,c:-1) ~BufferQueueCore
+04-16 16:37:39.194  1842 28187 D _V_AIE-LocalPersistence: [insert]  BaseEventTableManager = class com.vivo.awarecontext.persistence.db.collect.event.FgPageEventTableManager
+04-16 16:37:39.194   400   425 I vendor.mediatek.hardware.power@1.1-impl: PowerHint hint:8, data:0
+04-16 16:37:39.195   407   432 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset:Sub#0](this:0x78575fc000,id:184,api:2,p:2770,c:407) queueBuffer: fps=0.08 dur=26116.66 max=25939.54 min=177.12
+04-16 16:37:39.196  2770  3068 D Surface : lockCanvas
+04-16 16:37:39.196  2770  3068 D Surface : Surface::connect(this=0x7350284000,api=2)
+04-16 16:37:39.196   407  2331 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0](this:0x784d70e800,id:183,api:2,p:2770,c:407) connect(P): api=2 producer=(2770:com.bbk.launcher2) producerControlledByApp=true
+04-16 16:37:39.196  2146  5084 I _V_RMS-Reclaim: available=3317376KB, current watermark=1126400KB, last watermark=1126400KB, current stopline=800, last stopline=1000
+04-16 16:37:39.196  2146  5084 I _V_RMS-Reclaim: Reclaiming took : 1ms
+04-16 16:37:39.197   913   984 I BootReceiver: Copying /data/tombstones/tombstone_02 to DropBox (SYSTEM_TOMBSTONE)
+04-16 16:37:39.200   407   433 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0](this:0x784d70e800,id:183,api:2,p:2770,c:407) queueBuffer: fps=0.08 dur=26115.63 max=25942.70 min=172.93
+04-16 16:37:39.200   913  3489 D IdleScreen: activityIdleScreen: android.app.ContextImpl@4d69111 mNotifyNeeded: false idleIntent: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800100 cmp=com.bbk.launcher2/.Launcher }
+04-16 16:37:39.200  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.200  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.201   913  3489 E PowerHalWrapper: <amsBoostStop> duration: 6000ms
+04-16 16:37:39.212   407   407 E SurfaceFlinger: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0] rejecting buffer: bufWidth=1, bufHeight=1, front.active.{w=1080, h=0}
+04-16 16:37:39.212  1842 28187 D _V_AIE-DbEventDispatcher: FgPageEvent changed【insert rowIds [7395]】【update count 0】【delete count 0】
+04-16 16:37:39.213  1842  2389 D _V_AIE-DbEventDispatcher: handleInsertEvent rowId is 7395
+04-16 16:37:39.219  3155  3155 D SogouIME: SogouIME mHandler = 98
+04-16 16:37:39.241   913   922 I zygote64: Background concurrent copying GC freed 82051(5MB) AllocSpace objects, 17(480KB) LOS objects, 11% free, 46MB/52MB, paused 264us total 165.994ms
+04-16 16:37:39.243   913   989 I PackageManager: ### pkg:Package{9b1bfe4 com.bbk.iqoo.logsystem}
+04-16 16:37:39.243   913   980 D PackageManager: isPackageAvailable com.bbk.iqoo.logsystem, userId 0, result true, callingUid 1000
+04-16 16:37:39.243   913   980 D ActivityManager: StartMode2 packageName = com.bbk.iqoo.logsystem ,callingPid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{a693134 u0a56 PER  change:active|uncached procs:1 seq(0,0,0)}
+04-16 16:37:39.243   913 28181 W AES     : Exception Log handling...
+04-16 16:37:39.246   913   989 I PackageManager: ### pkg:Package{9b1bfe4 com.bbk.iqoo.logsystem}
+04-16 16:37:39.247   913   980 D PackageManager: isPackageAvailable com.bbk.iqoo.logsystem, userId 0, result true, callingUid 1000
+04-16 16:37:39.247   913   980 D ActivityManager: StartMode2 packageName = com.bbk.iqoo.logsystem ,callingPid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{a693134 u0a56 PER  change:active|uncached procs:1 seq(0,0,0)}
+04-16 16:37:39.300   913 28181 D AES     : ExceptionLog: notify aed (process:com.yunshouhu.hellojni pid:28156 cause:data_app_native_crash )
+04-16 16:37:39.300   913 28181 W AES     : native_crash should be processed by aee already
+04-16 16:37:39.314   913  1261 D RgbCurveAlgoDataStruct: calcAlsChangeCount length = 25
+04-16 16:37:39.314   913  1261 D RgbCurveAlgoDataStruct: calcAlsChangeCount count = 1
+04-16 16:37:39.341   913  3489 V NetworkStats: performPollLocked(flags=0x3)
+04-16 16:37:39.347   913  3489 I NetworkStatsRecorder: recordSnapshotLocked: ident[[{type=WIFI, subType=COMBINED, networkId="vivo-CA", metered=false}]]
+04-16 16:37:39.347   913  3489 W NetworkStatsRecorder: unknown interfaces [p2p0, lo], ignoring those stats
+04-16 16:37:39.347   913  3489 I NetworkStatsRecorder: recordSnapshotLocked: ident[[{type=WIFI, subType=COMBINED, networkId="vivo-CA", metered=false}]]
+04-16 16:37:39.347   913  3489 W NetworkStatsRecorder: unknown interfaces [p2p0, lo], ignoring those stats
+04-16 16:37:39.347   913  3489 D NetworkStatsRecorder: vpnArray:[Lcom.android.internal.net.VpnInfo;@9efe0c3
+04-16 16:37:39.347   913  3489 I NetworkStatsRecorder: recordSnapshotLocked: ident[[{type=WIFI, subType=COMBINED, networkId="vivo-CA", metered=false}]]
+04-16 16:37:39.348   913  3489 W NetworkStatsRecorder: unknown interfaces [p2p0, lo], ignoring those stats
+04-16 16:37:39.348   913  3489 D NetworkStatsRecorder: vpnArray:[Lcom.android.internal.net.VpnInfo;@9efe0c3
+04-16 16:37:39.348   913  3489 W NetworkStatsRecorder: unknown interfaces [p2p0, lo], ignoring those stats
+04-16 16:37:39.362   913  3489 V NetworkStats: performPollLocked() took 20ms
+04-16 16:37:39.368  2770  3068 D Surface : lockCanvas
+04-16 16:37:39.368  2770  3064 W OpenGLRenderer: Incorrectly called buildLayer on View: lll1l1l, destroying layer...
+04-16 16:37:39.368  2770  3064 W OpenGLRenderer: Incorrectly called buildLayer on View: lll1l1l, destroying layer...
+04-16 16:37:39.372  2770  3068 D Surface : lockCanvas
+04-16 16:37:39.380   407   407 E SurfaceFlinger: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0] rejecting buffer: bufWidth=1, bufHeight=1, front.active.{w=1080, h=0}
+04-16 16:37:39.392   913  5449 D NetworkStats: Resolving plan for NetworkTemplate: matchRule=MOBILE_ALL, subscriberId=460013..., matchSubscriberIds=[460013...]
+04-16 16:37:39.393   913  5449 D NetworkStats: Found active matching subId 1
+04-16 16:37:39.393   913   922 I zygote64: NativeAlloc concurrent copying GC freed 31441(1696KB) AllocSpace objects, 37(15MB) LOS objects, 15% free, 32MB/38MB, paused 119us total 119.554ms
+04-16 16:37:39.397   913  5449 D NetworkStats: Resolved to plan null
+04-16 16:37:39.465  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.465  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.465   913  1129 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:39.467  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.467  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.663   913   990 W WindowManager: mExitingMultiWindowRunnable:force send MULTIWINDOW_TRANSACTION_TIMEOUT
+04-16 16:37:39.764   913   990 I vivo_debug_StackTransition: updateMultiWindowTransTimeOut
+04-16 16:37:39.764   913   990 I vivo_debug_StackTransition: closeVivoTransitionLocked mUseSpecialAnim = false
+04-16 16:37:39.772  2770  2770 I Launcher.CustomLayoutContainer: isInterceptTouchEvent, mIntercept: false, mIsMoving: false
+04-16 16:37:39.783  2770  2770 I Launcher.Utilities: setHomeIndicatorState start ====> ! type:1
+04-16 16:37:39.786   407   433 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher#0](this:0x784d65e000,id:182,api:1,p:2770,c:407) queueBuffer: fps=3.29 dur=1214.45 max=512.86 min=106.10
+04-16 16:37:39.787   913  1188 D WifiStateMachine:  MtkL2ConnectedState { id=7252 when=-1ms what=131155 arg1=8 target=com.android.internal.util.StateMachine$SmHandler } 8 0, mShouldDeferDisableWifi = false, mWaitForWfcNotify = false
+04-16 16:37:39.797   913  5449 D WindowManager: activity is force full screen activity: false
+04-16 16:37:39.798  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.798  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.799  2770  2770 D Surface : Surface::disconnect(this=0x7350284000,api=2)
+04-16 16:37:39.799   407   433 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0](this:0x784d70e800,id:183,api:2,p:2770,c:407) disconnect(P): api 2
+04-16 16:37:39.799   407   433 I BufferQueueConsumer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0](this:0x784d70e800,id:183,api:2,p:-1,c:407) getReleasedBuffers: returning mask 0xffffffffffffffff
+04-16 16:37:39.799  2770  2770 D Surface : Surface::disconnect(this=0x7350273000,api=2)
+04-16 16:37:39.799   407  2331 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset:Sub#0](this:0x78575fc000,id:184,api:2,p:2770,c:407) disconnect(P): api 2
+04-16 16:37:39.799   407  2331 I BufferQueueConsumer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset:Sub#0](this:0x78575fc000,id:184,api:2,p:-1,c:407) getReleasedBuffers: returning mask 0xffffffffffffffff
+04-16 16:37:39.804   407   407 I DisplayDevice: [Built-in Screen (type:0)] fps:35.208401,dur:1306.51,max:307.36,min:11.17
+04-16 16:37:39.859  1777  1777 D ScreenShotGesture: updateInputFilter enable = false ,isFilterEnable = false ,isMiniscreen = false,mIsAccessibilityServiceEnable = false
+04-16 16:37:39.860  2770  2770 I Launcher.CustomLayoutContainer: isInterceptTouchEvent, mIntercept: false, mIsMoving: false
+04-16 16:37:39.860  2770  2770 D Launcher:  click shortcut info is ShortcutInfo(title=seckey_cpp_demo intent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x30200000 cmp=com.yunshouhu.hellojni/.MainActivity bnds=[801,425][1047,673] (has extras) } id=345 type=30 installType=-1 appFlag=0 appClassfication=NONE container=-100 screen=4 cellX=3 cellY=1 isGesture=false dropPos=null)
+04-16 16:37:39.861   913  5449 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x30200000 cmp=com.yunshouhu.hellojni/.MainActivity bnds=[801,425][1047,673] (has extras)} from uid 10035
+04-16 16:37:39.861   913  5449 I ActivityManager: send message.
+04-16 16:37:39.861  1569 23892 I SLService1: ActivityController mIsAndroidN_VivoMultiWindow = true, mIsMultiWindowOn = false
+04-16 16:37:39.861  1569 23892 I SLService1: [Monitor]1--------[] t [com.yunshouhu.hellojni] f []
+04-16 16:37:39.861  1569 23892 I SLService1: HAHA1 >>>> true <<<<
+04-16 16:37:39.861   913  5449 I ActivityManager: remove message.
+04-16 16:37:39.861   913  5449 I ActivityManager: send message.
+04-16 16:37:39.861  1569 23892 D SLService: optionsFromCallbacks = null
+04-16 16:37:39.862   913  5449 I ActivityManager: remove message.
+04-16 16:37:39.863   400   425 I vendor.mediatek.hardware.power@1.1-impl: PowerHint hint:8, data:1
+04-16 16:37:39.865   913  5449 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:39.866  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.867  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.869   389   481 E gralloc : Failed to allocate buffer.
+04-16 16:37:39.870   913  5449 E GraphicBufferAllocator: Failed to allocate (151 x 151) layerCount 1 format -3 usage 2: 5
+04-16 16:37:39.870   913  5449 I WindowManager: overridePendingAppTransitionThumbFromLauncher, bmpWidth = null, bmpHeight = null, startX = 848, startY = 454, scaleUp = true, animateExit = true, isTransitionSet() = true, mNextAppTransitionType = 0
+04-16 16:37:39.870   913  5449 I WindowManager: after overridePendingAppTransitionThumbFromLauncher
+04-16 16:37:39.870  2770  2770 D Launcher: startActivitySafely success ? true
+04-16 16:37:39.870  2770  2770 D Launcher: onPause -- mState = WORKSPACE
+04-16 16:37:39.870   913   981 I DecorView: setWindowBackground mBackgroundPadding = Rect(0, 0 - 0, 0), mFramePadding = Rect(0, 0 - 0, 0), pkg = com.yunshouhu.hellojni
+04-16 16:37:39.871   913  2577 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:39.871   913   981 D WindowClient: Add to mViews: DecorView@c4bbe22[hellojni], this = android.view.WindowManagerGlobal@b1d70aa
+04-16 16:37:39.872   913   981 D ViewRootImpl[hellojni]: hardware acceleration = false , fakeHwAccelerated = true, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+04-16 16:37:39.873   913   994 D DuraSpeed/DSPolicyBase: [setCurrentLauncher] = com.bbk.launcher2
+04-16 16:37:39.874   913   994 D DuraSpeed/AWSManager: [setCurrentLauncher] = com.bbk.launcher2
+04-16 16:37:39.875   913   994 D DuraSpeed/DuraSpeedInternalManager: switchState currentPackage = com.yunshouhu.hellojni, event =1004
+04-16 16:37:39.875   913   994 D DuraSpeed/DuraSpeedInternalManager: switchState end
+04-16 16:37:39.880   913   981 I CatcherGestureDetector: DecorView onAttached
+04-16 16:37:39.883  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.883  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.883   913  2577 I ActivityManager: Start proc 28189:com.yunshouhu.hellojni/u0a420 for activity com.yunshouhu.hellojni/.MainActivity
+04-16 16:37:39.884   407   407 I BufferQueue: [unnamed-407-194](this:0x784d60e000,id:194,api:0,p:-1,c:-1) BufferQueue core=(407:/system/bin/surfaceflinger)
+04-16 16:37:39.885   407   407 W GuiExt  : Cannot find GuiExtService
+04-16 16:37:39.885   407   407 I BufferQueueConsumer: [unnamed-407-194](this:0x784d60e000,id:194,api:0,p:-1,c:407) connect(C): consumer=(407:/system/bin/surfaceflinger) controlledByApp=false
+04-16 16:37:39.885   407   407 I BufferQueueConsumer: [unnamed-407-194](this:0x784d60e000,id:194,api:0,p:-1,c:407) setConsumerName: unnamed-407-194
+04-16 16:37:39.885   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d60e000,id:194,api:0,p:-1,c:407) setConsumerName: Splash Screen com.yunshouhu.hellojni#0
+04-16 16:37:39.885   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d60e000,id:194,api:0,p:-1,c:407) setDefaultBufferSize: width=1080 height=2280
+04-16 16:37:39.886   407   407 I BufferQueue: [unnamed-407-195](this:0x784d60f800,id:195,api:0,p:-1,c:-1) BufferQueue core=(407:/system/bin/surfaceflinger)
+04-16 16:37:39.886   407   407 W GuiExt  : Cannot find GuiExtService
+04-16 16:37:39.886   407   407 I BufferQueueConsumer: [unnamed-407-195](this:0x784d60f800,id:195,api:0,p:-1,c:407) connect(C): consumer=(407:/system/bin/surfaceflinger) controlledByApp=false
+04-16 16:37:39.886   407   407 I BufferQueueConsumer: [unnamed-407-195](this:0x784d60f800,id:195,api:0,p:-1,c:407) setConsumerName: unnamed-407-195
+04-16 16:37:39.886   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni:Inset#0](this:0x784d60f800,id:195,api:0,p:-1,c:407) setConsumerName: Splash Screen com.yunshouhu.hellojni:Inset#0
+04-16 16:37:39.887   407   407 I BufferQueue: [unnamed-407-196](this:0x784d670000,id:196,api:0,p:-1,c:-1) BufferQueue core=(407:/system/bin/surfaceflinger)
+04-16 16:37:39.888   407   407 W GuiExt  : Cannot find GuiExtService
+04-16 16:37:39.888   407   407 I BufferQueueConsumer: [unnamed-407-196](this:0x784d670000,id:196,api:0,p:-1,c:407) connect(C): consumer=(407:/system/bin/surfaceflinger) controlledByApp=false
+04-16 16:37:39.888   407   407 I BufferQueueConsumer: [unnamed-407-196](this:0x784d670000,id:196,api:0,p:-1,c:407) setConsumerName: unnamed-407-196
+04-16 16:37:39.888   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x784d670000,id:196,api:0,p:-1,c:407) setConsumerName: Splash Screen com.yunshouhu.hellojni:Inset:Sub#0
+04-16 16:37:39.888   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x784d670000,id:196,api:0,p:-1,c:407) setDefaultBufferSize: width=1 height=1
+04-16 16:37:39.889 28189 28189 I zygote  : Late-enabling -Xcheck:jni
+04-16 16:37:39.889   913   981 D WindowManager: activity is force full screen activity: false
+04-16 16:37:39.891  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.891  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.895  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.895  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.895  1860  1872 D HomeIndicatorController: UpSlide|handleNotifySystemBarColor: topClassName= com.bbk.launcher2/com.bbk.launcher2.Launcher  ,CoverColor= fff6f6f6,isIconsDark=true,mIsIconsDark = false ,VisState= -1
+04-16 16:37:39.895  1860  1872 D IndicatorState: UpSlide|setIndicatorVisState: mIndicatorVisState= 10, state= -1
+04-16 16:37:39.895  1860  1860 D IndicatorStyle: UpSlide|setIconsDark: mIsIconsDark= false, dark= true, force= false
+04-16 16:37:39.895  1860  1860 D IndicatorStyle: UpSlide|applyIndicatorTint: mIsIconsDark= true
+04-16 16:37:39.897  1842  2052 D _V_AIE-ActivityMonitor: notifyActivityPaused ActivityInfo{componentName=ComponentInfo{com.bbk.launcher2/com.bbk.launcher2.Launcher}, packageInfo=PackageInfo{9e76c10 com.bbk.launcher2}}
+04-16 16:37:39.897  1842  2052 D _V_AIE-PageGrab-PageGrabManager: [onActivityPaused]
+04-16 16:37:39.898   913   981 D Surface : lockCanvas
+04-16 16:37:39.898   913   981 D Surface : Surface::connect(this=0x733c079000,api=2)
+04-16 16:37:39.899   407  2331 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d60e000,id:194,api:2,p:913,c:407) connect(P): api=2 producer=(913:system_server) producerControlledByApp=false
+04-16 16:37:39.899  3634  3703 D _V_ContentCatcher-TouchCatcherService: cur package = com.bbk.launcher2 class = com.bbk.launcher2.Launcher
+04-16 16:37:39.904  1842 28194 D _V_AIE-LocalPersistence: [insert]  BaseEventTableManager = class com.vivo.awarecontext.persistence.db.collect.event.FgPageEventTableManager
+04-16 16:37:39.907   913   981 D Surface : lockCanvas
+04-16 16:37:39.907   913   981 D Surface : Surface::connect(this=0x733bfd8000,api=2)
+04-16 16:37:39.908   407   433 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x784d670000,id:196,api:2,p:913,c:407) connect(P): api=2 producer=(913:system_server) producerControlledByApp=false
+04-16 16:37:39.908  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.908  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.910   913   981 D Surface : lockCanvas
+04-16 16:37:39.910   913  2577 D WindowManager: activity is force full screen activity: false
+04-16 16:37:39.910   913   981 D Surface : Surface::connect(this=0x733c1dc000,api=2)
+04-16 16:37:39.910   407   782 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni:Inset#0](this:0x784d60f800,id:195,api:2,p:913,c:407) connect(P): api=2 producer=(913:system_server) producerControlledByApp=false
+04-16 16:37:39.910   407   433 I BufferQueueProducer: [HomeIndicator#0](this:0x78575fd800,id:164,api:1,p:1860,c:407) queueBuffer: fps=1.62 dur=1231.69 max=760.94 min=470.75
+04-16 16:37:39.913  1335  1335 D ImageWallpaper: onOffsetsChanged: xOffset=0.0, yOffset=0.0, xOffsetStep=0.0, yOffsetStep=0.0, xPixels=0, yPixels=0
+04-16 16:37:39.914  1335  1335 D ImageWallpaper: drawFrame, newRotation:0 mLastRotation:0
+04-16 16:37:39.914  1335  1335 D ImageWallpaper: drawFrame, frame size:1080/2280; ForceDraw : false
+04-16 16:37:39.914  1335  1335 D ImageWallpaper: Suppressed drawFrame since redraw is not needed and offsets have not changed.
+04-16 16:37:39.914   407   407 E SurfaceFlinger: [Splash Screen com.yunshouhu.hellojni:Inset#0] rejecting buffer: bufWidth=1, bufHeight=1, front.active.{w=1080, h=0}
+04-16 16:37:39.914  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.914  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.929  1842 28194 D _V_AIE-DbEventDispatcher: FgPageEvent changed【insert rowIds [7396]】【update count 0】【delete count 0】
+04-16 16:37:39.930  1842  2389 D _V_AIE-DbEventDispatcher: handleInsertEvent rowId is 7396
+04-16 16:37:39.936  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.936  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.934   913  2577 D WindowManager: activity is force full screen activity: false
+04-16 16:37:39.941   913  2577 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:39.942  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.942  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.943   913  2577 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = true
+04-16 16:37:39.944   913  2577 D WindowManager: activity is force full screen activity: false
+04-16 16:37:39.944  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:39.944  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:39.945   400   425 I vendor.mediatek.hardware.power@1.1-impl: notifyAppState pack:com.yunshouhu.hellojni, act:com.yunshouhu.hellojni.MainActivity, pid:28189, state:1
+04-16 16:37:39.946   913   981 D VivoWifiUtil: onForegroundActivitiesChanged: pid=28189, uid=10420, foregroundActivities=true
+04-16 16:37:39.946   400   424 I libPerfService: [perfNotifyAppState] foreground:com.yunshouhu.hellojni, pid:28189
+04-16 16:37:39.946   913   981 D VivoWifiUtil: mForgroundAppName=com.yunshouhu.hellojni, mLastForgroundAppName=com.yunshouhu.hellojni
+04-16 16:37:39.946   913   981 D VivoWifiUtil: handleForgrouneAppChanged oldApp:com.yunshouhu.hellojni, newApp:com.yunshouhu.hellojni
+04-16 16:37:39.946   913   981 D BBKTouchScreenServiceService: pakage name is com.yunshouhu.hellojniwith :10420
+04-16 16:37:39.946  1860  1860 I UpSlideHelper: UpSlide|toggleUpSlideViewInCamera isInCamera = false
+04-16 16:37:39.946   913   981 D BBKTouchScreenServiceService: called and appName is [B@292750f
+04-16 16:37:39.947   402   402 D touchscreen: 23 bytes have been write to app name
+04-16 16:37:39.947  5073  5219 I _V_UsageAppManager: dealAppInfoList.getPid()=28189,dealAppInfoList.getUid()=10420,dealAppInfoList.getPkgName()=com.yunshouhu.hellojni
+04-16 16:37:39.947  5073  5219 I _V_UsageAppManager: dealAppInfoList_mForgroundInfo_pid=28189,mForgroundInfo_pkgName=com.yunshouhu.hellojni,mForgroundInfo_uid=10420,mBackgroundInfo_pid=2770,mBackgroundInfo_pkgName=com.bbk.launcher2,mBackgroundInfo_uid=10035
+04-16 16:37:39.949  4046 22154 I _V_SecureService2: onForegroundActivitiesChanged() pid = 28189, uid = 10420, foregroundActivities = true
+04-16 16:37:39.949  2687  7621 I _V_LuckyMoneyService: mProcessObserver_doubleAppUid=99999
+04-16 16:37:39.949  1301  4057 E _V_AppStatisticManager: addLruPkg pkgName = com.yunshouhu.hellojni
+04-16 16:37:39.949  2687  7621 I _V_LuckyMoneyService: mProcessObserver_mainAppUid=99999
+04-16 16:37:39.949  1842  3479 D _V_AIE-UsageDetailAppCollector: onForegroundActivityChanged_PID = 28189 ,uid = 10420 ,foregroundActivities = true
+04-16 16:37:39.949  1842  2475 D _V_AIE-UsageDetailAppCollector: dealAppInfoList.getPid()=28189,dealAppInfoList.getUid()=10420,dealAppInfoList.getPkgName()=com.yunshouhu.hellojni
+04-16 16:37:39.949  1842  2475 D _V_AIE-UsageDetailAppCollector: dealAppInfoList_mForgroundInfo_pid=28189,mForgroundInfo_pkgName=com.yunshouhu.hellojni,mForgroundInfo_uid=10420,mBackgroundInfo_pid=2770,mBackgroundInfo_pkgName=com.bbk.launcher2,mBackgroundInfo_uid=10035
+04-16 16:37:39.949  1569  2108 I MotorModeDaemonService: handleMessage--msg.what=1
+04-16 16:37:39.949  1569  1569 D GameModeManager: mSuspendGamesList:[]pkgName:com.yunshouhu.hellojni
+04-16 16:37:39.950  1842  2475 D _V_AIE-UsageDetailAppCollector: getversionCode=1
+04-16 16:37:39.950  1842  2475 D _V_AIE-UsageDetailAppCollector: getVersionName_name=1.0
+04-16 16:37:39.950   913  1261 D UserModifyRecorder: pakage name is com.yunshouhu.hellojni with :10420
+04-16 16:37:39.950  1842  2475 D _V_AIE-UsageDetailAppCollector: LBSLocationTask.getInstance().startLocation
+04-16 16:37:39.950  1842  2475 D _V_AIE-LBS-LBSLocationTask: startLocation callback: com.vivo.aiengine.services.collect.a.j$2@ce9090e  scaleTime: 600000
+04-16 16:37:39.950  1842  2475 D _V_AIE-LBS-LBSLocationTask: mLastLocation is Valid.
+04-16 16:37:39.950  1842  2475 D _V_AIE-UsageDetailAppCollector: onLocSuccess
+04-16 16:37:39.950  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.yunshouhu.hellojni/Splash Screen com.yunshouhu.hellojni}, statusBarIconStyle = 1, statusBarBgColor = ff00574b, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= false, isKeyguardShowing= false
+04-16 16:37:39.950  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= 1, animate= false, mIsLightFlag= false
+04-16 16:37:39.951   913   998 D PowerManagerService: fgApp changed!
+04-16 16:37:39.952  2770  3064 D Surface : Surface::disconnect(this=0x7350272000,api=1)
+04-16 16:37:39.953  1569 25564 I LocationDialogService: onForegroundActivitiesChanged() pid = 28189, uid = 10420, foregroundActivities = true
+04-16 16:37:39.953  1569  1583 I ProxCoverNoticeService: isHomeLauncher = false
+04-16 16:37:39.953   407   433 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher#0](this:0x784d65e000,id:182,api:1,p:2770,c:407) disconnect(P): api 1
+04-16 16:37:39.953   407   433 I BufferQueueConsumer: [com.bbk.launcher2/com.bbk.launcher2.Launcher#0](this:0x784d65e000,id:182,api:1,p:-1,c:407) getReleasedBuffers: returning mask 0xffffffffffffffff
+04-16 16:37:39.953  1569 25564 I LocationDialogService: onForegroundActivitiesChanged name Process == com.yunshouhu.hellojni
+04-16 16:37:39.953  3401 16282 I FloatingBallDiplomat: FloatingBall|appTransitionStarting >> packageName =com.yunshouhu.hellojni activityName = com.yunshouhu.hellojni.MainActivity
+04-16 16:37:39.954  5073  5219 I _V_UsageAppManager: getversionCode=1
+04-16 16:37:39.954  5073  5219 I _V_UsageAppManager: getVersionName_name=1.0
+04-16 16:37:39.954  1569  1569 I VivoDaemonServiceApp: notify mSuspendModeManager
+04-16 16:37:39.954  1569  1583 I ProxCoverNoticeService: top activity name = com.yunshouhu.hellojni
+04-16 16:37:39.954  1569  1583 E ProxCoverNoticeService: monitor view is null, no need to update minimum
+04-16 16:37:39.954  1569 23892 I SLService2: HAHA2 pid = 28189, uid = 10420, f = true
+04-16 16:37:39.954  1569  1583 I ProxCoverNoticeService: onForegroundActivitiesChanged, pid = 28189, uid = 10420, pkg = com.yunshouhu.hellojni, foregroundActivities = true
+04-16 16:37:39.955   913  1186 V NetworkStats: setKernelCounterSet uid=10420 set=1
+04-16 16:37:39.955   913  1908 D WindowManager: activity is force full screen activity: false
+04-16 16:37:39.955  1301  5134 I _V_ABE  : PowerEngineService enter the forgound
+04-16 16:37:39.956  1569  1583 I ProxCoverNoticeService: isKeyguardLocked = false, isDeviceLocked = false, isKeyguardSecure = true, isDeviceSecure = true, inKeyguardRestrictedInputMode = false
+04-16 16:37:39.956   913  1772 D NetworkPolicy: uid 10056 is allowed on unmetered network
+04-16 16:37:39.958  2687  7621 I _V_LuckyMoneyService: processInfo_pkgList[0]=com.yunshouhu.hellojni
+04-16 16:37:39.958  2687  7621 I _V_LuckyMoneyService: processInfo_processName=com.yunshouhu.hellojni
+04-16 16:37:39.958  2687  7621 I _V_LuckyMoneyService: processInfo_uid=10420
+04-16 16:37:39.959  2770  2770 D Launcher: onWindowFocusChanged ,  hasFocus = false
+04-16 16:37:39.964   407   407 W Layer   : [Splash Screen com.yunshouhu.hellojni#0] opaque layer with plane alpha:0.23 cannot be handled by hwcomposer
+04-16 16:37:39.966   407   407 I BufferQueueProducer: [FrameBufferSurface_0](this:0x7857ffc000,id:0,api:1,p:407,c:407) queueBuffer: fps=17.82 dur=1234.65 max=551.44 min=15.52
+04-16 16:37:39.980   407   407 W Layer   : [Splash Screen com.yunshouhu.hellojni#0] opaque layer with plane alpha:0.74 cannot be handled by hwcomposer
+04-16 16:37:39.981 28189 28189 F libc    : Fatal signal 11 (SIGSEGV), code 2, fault addr 0xd34d17b4 in tid 28189 (shouhu.hellojni), pid 28189 (shouhu.hellojni)
+04-16 16:37:39.997  1860  2153 I WhiteListHelper: UpSlide|isPkgHidedInVisitorMode >>> pkg = com.yunshouhu.hellojni, mHideIconList = null
+04-16 16:37:39.997   407   407 W Layer   : [Splash Screen com.yunshouhu.hellojni#0] opaque layer with plane alpha:1.00 cannot be handled by hwcomposer
+04-16 16:37:40.005  5179 16304 I FloatWindowManagerService: get top = com.yunshouhu.hellojni
+04-16 16:37:40.005  5179 16304 I FloatWindowManagerService:  ; lrp is : com.yunshouhu.hellojni ; tlp is : com.yunshouhu.hellojni
+04-16 16:37:40.006  5179 16304 I FloatWindowManagerService: cur n : com.yunshouhu.hellojni is not al , swi to al !
+04-16 16:37:40.009  2770  2804 V BBKWeather-frm: getWidgetWeatherInfo realTimeStr = 2020-04-16 16:37:40
+04-16 16:37:40.013 28209 28209 I crash_dump32: obtaining output fd from tombstoned, type: kDebuggerdTombstone
+04-16 16:37:40.013   584   584 I /system/bin/tombstoned: received crash request for pid 28189
+04-16 16:37:40.014 28209 28209 I crash_dump32: performing dump of process 28189 (target tid = 28189)
+04-16 16:37:40.014 28189 28189 I libc    : orig_dumpable: 1
+04-16 16:37:40.015 28209 28209 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+04-16 16:37:40.015 28209 28209 F DEBUG   : Build fingerprint: 'vivo/PD1801/PD1801:8.1.0/O11019/1560411816:user/release-keys'
+04-16 16:37:40.015 28209 28209 F DEBUG   : Revision: '0'
+04-16 16:37:40.015 28209 28209 F DEBUG   : ABI: 'arm'
+04-16 16:37:40.015 28209 28209 F DEBUG   : pid: 28189, tid: 28189, name: shouhu.hellojni  >>> com.yunshouhu.hellojni <<<
+04-16 16:37:40.015 28209 28209 F DEBUG   : signal 11 (SIGSEGV), code 2 (SEGV_ACCERR), fault addr 0xd34d17b4
+04-16 16:37:40.015 28209 28209 F DEBUG   :     r0 d34d17b4  r1 0000000a  r2 000487b4  r3 00323378
+04-16 16:37:40.015 28209 28209 F DEBUG   :     r4 f5980e10  r5 d34d17b4  r6 0000000b  r7 d348ee48
+04-16 16:37:40.015 28209 28209 F DEBUG   :     r8 00000000  r9 00000016  sl d348b50f  fp 00000007
+04-16 16:37:40.015 28209 28209 F DEBUG   :     ip ff000000  sp ff94b088  lr f6fe0b41  pc d34d17b4  cpsr 60070010
+04-16 16:37:40.017   390   477 W hwcomposer: [OVL] (0) No overlay input queue(2)  
+04-16 16:37:40.018   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Buffer queue is created with size(3)  
+04-16 16:37:40.018   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) setConsumerListener  
+04-16 16:37:40.018   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Reallocate Slot(0), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:40.019  2770  2804 E BitmapFactory: Unable to decode stream: java.io.FileNotFoundException: /oem/etc/theme/icons/dynamic_icon/com.vivo.weather/res/drawable-sw360dp-xxhdpi/dynamic_weather_cloudy.png (No such file or directory)
+04-16 16:37:40.021  2770  2804 E BitmapFactory: Unable to decode stream: java.io.FileNotFoundException: /oem/etc/theme/icons/dynamic_icon/com.vivo.weather/res/drawable-sw360dp-xxhdpi/dynamic_weather_degree.png (No such file or directory)
+04-16 16:37:40.021  2770  2804 E BitmapFactory: Unable to decode stream: java.io.FileNotFoundException: /oem/etc/theme/icons/dynamic_icon/com.vivo.weather/res/drawable-sw360dp-xxhdpi/dynamic_weather_minus.png (No such file or directory)
+04-16 16:37:40.034   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Reallocate Slot(1), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:40.050   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Reallocate Slot(2), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:40.094 28209 28209 F DEBUG   : 
+04-16 16:37:40.094 28209 28209 F DEBUG   : backtrace:
+04-16 16:37:40.094 28209 28209 F DEBUG   :     #00 pc 000197b4  <anonymous:d34b8000>
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #01 pc 00006b3f  /system/bin/linker (__dl__Z19call_ifunc_resolverj+6)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #02 pc 00007b4d  /system/bin/linker (__dl__ZN6soinfo8relocateI20plain_reloc_iteratorEEbRK14VersionTrackerOT_RK10LinkedListIS_19SoinfoListAllocatorESB_+308)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #03 pc 000072af  /system/bin/linker (__dl__ZN6soinfo10link_imageERK10LinkedListIS_19SoinfoListAllocatorES4_PK17android_dlextinfo+586)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #04 pc 0000491f  /system/bin/linker (__dl__Z14find_librariesP19android_namespace_tP6soinfoPKPKcjPS2_PNSt3__16vectorIS2_NS8_9allocatorIS2_EEEEjiPK17android_dlextinfobbRNS8_13unordered_mapIPKS1_9ElfReaderNS8_4hashISJ_EENS8_8equal_toISJ_EENSA_INS8_4pairIKSJ_SK_EEEEEEPNS9_IS0_NSA_IS0_EEEE+2042)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #05 pc 00005c53  /system/bin/linker (__dl__ZL12find_libraryP19android_namespace_tPKciPK17android_dlextinfoP6soinfo+66)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #06 pc 0000593b  /system/bin/linker (__dl__Z9do_dlopenPKciPK17android_dlextinfoPKv+1070)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #07 pc 000033f3  /system/bin/linker (__dl__ZL10dlopen_extPKciPK17android_dlextinfoPKv+38)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #08 pc 00001107  /system/lib/libdl.so (android_dlopen_ext+4)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #09 pc 000023bd  /system/lib/libnativeloader.so (android::OpenNativeLibrary(_JNIEnv*, int, char const*, _jobject*, _jstring*, bool*, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>>*)+252)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #10 pc 0024f4ad  /system/lib/libart.so (art::JavaVMExt::LoadNativeLibrary(_JNIEnv*, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>> const&, _jobject*, _jstring*, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>>*)+1432)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #11 pc 0000315f  /system/lib/libopenjdkjvm.so (JVM_NativeLoad+194)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #12 pc 00255771  /system/framework/arm/boot.oat (offset 0x1cc000) (java.lang.Runtime.nativeLoad+160)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #13 pc 00401775  /system/lib/libart.so (art_quick_invoke_stub_internal+68)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #14 pc 004069eb  /system/lib/libart.so (art_quick_invoke_static_stub+226)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #15 pc 000afadf  /system/lib/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+174)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #16 pc 00200bc7  /system/lib/libart.so (art::interpreter::ArtInterpreterToCompiledCodeBridge(art::Thread*, art::ArtMethod*, art::ShadowFrame*, unsigned short, art::JValue*)+226)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #17 pc 001fc149  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+592)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #18 pc 003ec8f5  /system/lib/libart.so (MterpInvokeStatic+184)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #19 pc 003f3d14  /system/lib/libart.so (ExecuteMterpImpl+14612)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #20 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #21 pc 001e7261  /system/lib/libart.so (art::interpreter::ArtInterpreterToInterpreterBridge(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*, art::JValue*)+148)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #22 pc 001fc131  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+568)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #23 pc 003ec787  /system/lib/libart.so (MterpInvokeDirect+250)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #24 pc 003f3c94  /system/lib/libart.so (ExecuteMterpImpl+14484)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #25 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #26 pc 001e7261  /system/lib/libart.so (art::interpreter::ArtInterpreterToInterpreterBridge(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*, art::JValue*)+148)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #27 pc 001fc131  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+568)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #28 pc 003eb8db  /system/lib/libart.so (MterpInvokeVirtual+482)
+04-16 16:37:40.095 28209 28209 F DEBUG   :     #29 pc 003f3b94  /system/lib/libart.so (ExecuteMterpImpl+14228)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #30 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #31 pc 001e7261  /system/lib/libart.so (art::interpreter::ArtInterpreterToInterpreterBridge(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*, art::JValue*)+148)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #32 pc 001fc131  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+568)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #33 pc 003ec8f5  /system/lib/libart.so (MterpInvokeStatic+184)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #34 pc 003f3d14  /system/lib/libart.so (ExecuteMterpImpl+14612)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #35 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #36 pc 001e71a9  /system/lib/libart.so (art::interpreter::EnterInterpreterFromEntryPoint(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*)+92)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #37 pc 003e11c9  /system/lib/libart.so (artQuickToInterpreterBridge+924)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #38 pc 00405cf1  /system/lib/libart.so (art_quick_to_interpreter_bridge+32)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #39 pc 00401775  /system/lib/libart.so (art_quick_invoke_stub_internal+68)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #40 pc 004069eb  /system/lib/libart.so (art_quick_invoke_static_stub+226)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #41 pc 000afadf  /system/lib/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+174)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #42 pc 000f82c1  /system/lib/libart.so (art::ClassLinker::InitializeClass(art::Thread*, art::Handle<art::mirror::Class>, bool, bool)+2228)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #43 pc 000e64e1  /system/lib/libart.so (art::ClassLinker::EnsureInitialized(art::Thread*, art::Handle<art::mirror::Class>, bool, bool)+116)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #44 pc 002f5f81  /system/lib/libart.so (art::Class_newInstance(_JNIEnv*, _jobject*)+868)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #45 pc 001cc1d3  /system/framework/arm/boot.oat (offset 0x1cc000) (java.lang.Object.internalClone [DEDUPED]+74)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #46 pc 00401775  /system/lib/libart.so (art_quick_invoke_stub_internal+68)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #47 pc 004068e5  /system/lib/libart.so (art_quick_invoke_stub+228)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #48 pc 000afabb  /system/lib/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+138)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #49 pc 00200bc7  /system/lib/libart.so (art::interpreter::ArtInterpreterToCompiledCodeBridge(art::Thread*, art::ArtMethod*, art::ShadowFrame*, unsigned short, art::JValue*)+226)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #50 pc 001fc149  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+592)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #51 pc 003eb8db  /system/lib/libart.so (MterpInvokeVirtual+482)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #52 pc 003f3b94  /system/lib/libart.so (ExecuteMterpImpl+14228)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #53 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #54 pc 001e7261  /system/lib/libart.so (art::interpreter::ArtInterpreterToInterpreterBridge(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*, art::JValue*)+148)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #55 pc 001fc131  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+568)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #56 pc 003eb8db  /system/lib/libart.so (MterpInvokeVirtual+482)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #57 pc 003f3b94  /system/lib/libart.so (ExecuteMterpImpl+14228)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #58 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #59 pc 001e7261  /system/lib/libart.so (art::interpreter::ArtInterpreterToInterpreterBridge(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame*, art::JValue*)+148)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #60 pc 001fc131  /system/lib/libart.so (_ZN3art11interpreter6DoCallILb0ELb0EEEbPNS_9ArtMethodEPNS_6ThreadERNS_11ShadowFrameEPKNS_11InstructionEtPNS_6JValueE+568)
+04-16 16:37:40.096 28209 28209 F DEBUG   :     #61 pc 003ec787  /system/lib/libart.so (MterpInvokeDirect+250)
+04-16 16:37:40.097 28209 28209 F DEBUG   :     #62 pc 003f3c94  /system/lib/libart.so (ExecuteMterpImpl+14484)
+04-16 16:37:40.097 28209 28209 F DEBUG   :     #63 pc 001e2b9d  /system/lib/libart.so (art::interpreter::Execute(art::Thread*, art::DexFile::CodeItem const*, art::ShadowFrame&, art::JValue, bool)+344)
+04-16 16:37:40.117   390   477 W hwcomposer: [OVL] (0) No overlay input queue(1)  
+04-16 16:37:40.117   390   477 I hwcomposer: [DBQ] (q2:0x7c03c6a200) Buffer queue is created with size(3)  
+04-16 16:37:40.117   390   477 I hwcomposer: [DBQ] (q2:0x7c03c6a200) setConsumerListener  
+04-16 16:37:40.117   390   477 I hwcomposer: [DBQ] (q2:0x7c03c6a200) Reallocate Slot(0), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:40.119   390   477 I hwcomposer: [OVL] (0) Overlay input(2) was used with queue previously  
+04-16 16:37:40.119   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Buffer queue is destroyed  
+04-16 16:37:40.119   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Free Slot(0), handle=0x7c03c56fc0, 9849600 -> 0  
+04-16 16:37:40.119   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Free Slot(1), handle=0x7c03c56b60, 9849600 -> 0  
+04-16 16:37:40.119   390   477 I hwcomposer: [DBQ] (q2:0x7c03c69300) Free Slot(2), handle=0x7c03c56ee0, 9849600 -> 0  
+04-16 16:37:40.132   390   477 I hwcomposer: [DBQ] (q2:0x7c03c6a200) Reallocate Slot(1), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:40.149   390   477 I hwcomposer: [DBQ] (q2:0x7c03c6a200) Reallocate Slot(2), pool(0 -> 0) size(0 -> 9849600)  
+04-16 16:37:40.199   390   477 I hwcomposer: [OVL] (0) Overlay input(1) was used with queue previously  
+04-16 16:37:40.199   390   477 I hwcomposer: [DBQ] (q2:0x7c03c6a200) Buffer queue is destroyed  
+04-16 16:37:40.199   390   477 I hwcomposer: [DBQ] (q2:0x7c03c6a200) Free Slot(0), handle=0x7c03c56e00, 9849600 -> 0  
+04-16 16:37:40.199   390   477 I hwcomposer: [DBQ] (q2:0x7c03c6a200) Free Slot(1), handle=0x7c03c56ee0, 9849600 -> 0  
+04-16 16:37:40.199   390   477 I hwcomposer: [DBQ] (q2:0x7c03c6a200) Free Slot(2), handle=0x7c03c56b60, 9849600 -> 0  
+04-16 16:37:40.217   913  1129 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:40.218  1335  1335 D ImageWallpaper: onVisibilityChanged: mVisible, visible=true, false
+04-16 16:37:40.218  1335  1335 D ImageWallpaper: Visibility changed to visible=false
+04-16 16:37:40.234   407  2331 I BufferQueueProducer: [StatusBar#0](this:0x7857cdc800,id:8,api:1,p:1335,c:407) queueBuffer: fps=2.85 dur=1751.73 max=851.28 min=39.67
+04-16 16:37:40.305 28209 28209 I crash_dump: socket name: android:aee_aed32, sfd: 9
+04-16 16:37:40.306   811   811 D AEE_AED : $===AEE===AEE===AEE===$
+04-16 16:37:40.306   811   811 D AEE_AED : p 2 poll events 1 revents 1
+04-16 16:37:40.306   811   811 D AEE_AED : PPM cpu cores:8, online:8
+04-16 16:37:40.308   811   811 D AEE_AED : aed_main_fork_worker: generator 0xe8d95488, worker 0xffb20358, recv_fd 10
+04-16 16:37:40.309 28210 28210 V AEE_AED : dashboard_record_update() : rec->module = com.yunshouhu.hellojni 
+04-16 16:37:40.309 28210 28210 D AEE_AED : Skip duplicated exception ! 
+04-16 16:37:40.309 28210 28210 D AEE_AED : Exception Class: 3 
+04-16 16:37:40.309 28210 28210 D AEE_AED : Module: com.yunshouhu.hellojni 
+04-16 16:37:40.309 28210 28210 D AEE_AED : Count: 4 
+04-16 16:37:40.309 28210 28210 D AEE_AED : Last exception time: 1587026259 
+04-16 16:37:40.309 28210 28210 D AEE_AED :  
+04-16 16:37:40.309 28210 28210 V AEE_AED : aed_crash_dump_session - skipped 
+04-16 16:37:40.309 28209 28209 I crash_dump: crash_dump_notify exit
+04-16 16:37:40.310   811   811 D AEE_AED : clear ppm settings
+04-16 16:37:40.310   811   811 D AEE_AED : $===AEE===AEE===AEE===$
+04-16 16:37:40.311   584   584 E /system/bin/tombstoned: Tombstone written to: /data/tombstones/tombstone_03
+04-16 16:37:40.313  1569 23892 D SLService: ppCra : com.yunshouhu.hellojni pid : 28189
+04-16 16:37:40.314   913 28211 W ActivityManager:   Force finishing activity com.yunshouhu.hellojni/.MainActivity
+04-16 16:37:40.315   913 28211 I ActivityManager: vivoAdjustFocusedActivityStackLocked step1 r = ActivityRecord{e65c61f u0 com.yunshouhu.hellojni/.MainActivity t26 f}, reason = finishActivity, mResumedActivity = ActivityRecord{e65c61f u0 com.yunshouhu.hellojni/.MainActivity t26 f}
+04-16 16:37:40.315   913 28211 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:40.331   913 28211 I BufferQueue: [unnamed-913-15](this:0x734300d000,id:15,api:0,p:-1,c:-1) BufferQueue core=(913:system_server)
+04-16 16:37:40.332   913 28211 W GuiExt  : Cannot find GuiExtService
+04-16 16:37:40.332   913 28211 I BufferQueueConsumer: [unnamed-913-15](this:0x734300d000,id:15,api:0,p:-1,c:913) connect(C): consumer=(913:system_server) controlledByApp=false
+04-16 16:37:40.332   913 28211 I BufferQueueConsumer: [unnamed-913-15](this:0x734300d000,id:15,api:0,p:-1,c:913) setConsumerName: unnamed-913-15
+04-16 16:37:40.332   913 28211 I BufferQueueConsumer: [ScreenshotClient](this:0x734300d000,id:15,api:0,p:-1,c:913) setConsumerName: ScreenshotClient
+04-16 16:37:40.332   407  2331 D Surface : Surface::connect(this=0x785750a000,api=1)
+04-16 16:37:40.333   913 28211 I BufferQueueProducer: [ScreenshotClient](this:0x734300d000,id:15,api:1,p:407,c:913) connect(P): api=1 producer=(407:/system/bin/surfaceflinger) producerControlledByApp=false
+04-16 16:37:40.336   407   407 I SurfaceFlinger: screenshot (Splash Screen com.yunshouhu.hellojni#0)
+04-16 16:37:40.338   407  2331 D Surface : Surface::disconnect(this=0x785750a000,api=1)
+04-16 16:37:40.338   913 28211 I BufferQueueProducer: [ScreenshotClient](this:0x734300d000,id:15,api:1,p:407,c:913) disconnect(P): api 1
+04-16 16:37:40.338   913 28211 I BufferQueueConsumer: [ScreenshotClient](this:0x734300d000,id:15,api:1,p:-1,c:913) getReleasedBuffers: returning mask 0xffffffffffffffff
+04-16 16:37:40.355   913 28211 I BufferQueueConsumer: [ScreenshotClient](this:0x734300d000,id:15,api:1,p:-1,c:-1) disconnect(C)
+04-16 16:37:40.357   913 28211 W ActivityManager: Exception thrown during pause
+04-16 16:37:40.357   913 28211 W ActivityManager: android.os.DeadObjectException
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at android.os.BinderProxy.transactNative(Native Method)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at android.os.BinderProxy.transact(Binder.java:802)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at android.app.IApplicationThread$Stub$Proxy.schedulePauseActivity(IApplicationThread.java:1149)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at com.android.server.am.ActivityStack.startPausingLocked(ActivityStack.java:1516)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at com.android.server.am.ActivityStack.finishActivityLocked(ActivityStack.java:4382)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at com.android.server.am.ActivityStack.finishActivityLocked(ActivityStack.java:4304)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at com.android.server.am.ActivityStack.finishTopRunningActivityLocked(ActivityStack.java:4185)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at com.android.server.am.ActivityStackSupervisor.finishTopRunningActivityLocked(ActivityStackSupervisor.java:2452)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at com.android.server.am.AppErrors.handleAppCrashLocked(AppErrors.java:699)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at com.android.server.am.AppErrors.makeAppCrashingLocked(AppErrors.java:525)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at com.android.server.am.AppErrors.crashApplicationInner(AppErrors.java:396)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at com.android.server.am.AppErrors.crashApplication(AppErrors.java:341)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at com.android.server.am.ActivityManagerService.handleApplicationCrashInner(ActivityManagerService.java:16529)
+04-16 16:37:40.357   913 28211 W ActivityManager: 	at com.android.server.am.NativeCrashListener$NativeCrashReporter.run(NativeCrashListener.java:85)
+04-16 16:37:40.358   913 28211 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:40.359   400   425 I vendor.mediatek.hardware.power@1.1-impl: notifyAppState pack:com.bbk.launcher2, act:com.bbk.launcher2.Launcher, pid:2770, state:1
+04-16 16:37:40.359   913  6120 I BufferQueue: [ScreenshotClient](this:0x734300d000,id:15,api:1,p:-1,c:-1) ~BufferQueueCore
+04-16 16:37:40.360   400   424 I libPerfService: [perfNotifyAppState] foreground:com.bbk.launcher2, pid:2770
+04-16 16:37:40.363   406   406 E lowmemorykiller: Error opening /proc/28189/oom_score_adj; errno=2
+04-16 16:37:40.368   913 28211 D WindowManager: activity is force full screen activity: false
+04-16 16:37:40.371   913 28211 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:40.372  1335  1335 D ImageWallpaper: onVisibilityChanged: mVisible, visible=false, true
+04-16 16:37:40.372  1335  1335 D ImageWallpaper: Visibility changed to visible=true
+04-16 16:37:40.373  1335  1335 D ImageWallpaper: drawFrame, newRotation:0 mLastRotation:0
+04-16 16:37:40.373  1335  1335 D ImageWallpaper: drawFrame, frame size:1080/2280; ForceDraw : false
+04-16 16:37:40.373  1335  1335 D ImageWallpaper: Suppressed drawFrame since redraw is not needed and offsets have not changed.
+04-16 16:37:40.373  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.yunshouhu.hellojni/Splash Screen com.yunshouhu.hellojni}, statusBarIconStyle = 1, statusBarBgColor = ff00574b, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= false, isKeyguardShowing= false
+04-16 16:37:40.374  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= 1, animate= false, mIsLightFlag= false
+04-16 16:37:40.374   913 28211 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:40.374  1860  1872 D HomeIndicatorController: UpSlide|handleNotifySystemBarColor: topClassName= Splash Screen com.yunshouhu.hellojni  ,CoverColor= ff000000,isIconsDark=false,mIsIconsDark = true ,VisState= -1
+04-16 16:37:40.374  1860  1872 D IndicatorState: UpSlide|setIndicatorVisState: mIndicatorVisState= 10, state= -1
+04-16 16:37:40.374  1860  1860 D IndicatorStyle: UpSlide|setIconsDark: mIsIconsDark= true, dark= false, force= false
+04-16 16:37:40.374  1860  1860 D IndicatorStyle: UpSlide|applyIndicatorTint: mIsIconsDark= false
+04-16 16:37:40.377   913 28211 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:40.378   913  4032 I ActivityManager: Process com.yunshouhu.hellojni (pid 28189) has died: vis  +99TOP 
+04-16 16:37:40.378   913   983 W zygote64: kill(-28189, 9) failed: No such process
+04-16 16:37:40.378   913   983 I zygote64: Successfully killed process cgroup uid 10420 pid 28189 in 0ms
+04-16 16:37:40.380   913  3489 I WindowManager: Relayout Window{4221355 u0 com.bbk.launcher2/com.bbk.launcher2.Launcher}: oldVis=8 newVis=0 focusMayChange = true
+04-16 16:37:40.381   913   994 D DuraSpeed/DSPolicyBase: [setCurrentLauncher] = com.bbk.launcher2
+04-16 16:37:40.381   913  3489 D WindowManager: activity is force full screen activity: false
+04-16 16:37:40.382   913   994 D DuraSpeed/AWSManager: [setCurrentLauncher] = com.bbk.launcher2
+04-16 16:37:40.382   913   994 D DuraSpeed/DuraSpeedInternalManager: switchState currentPackage = com.bbk.launcher2, event =1004
+04-16 16:37:40.383   913   994 D DuraSpeed/DuraSpeedInternalManager: switchState end
+04-16 16:37:40.384   913  3489 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:40.388   913  5449 D WindowManager: activity is force full screen activity: false
+04-16 16:37:40.388   913  4032 D ActivityManager: reset multiwindow status for exit
+04-16 16:37:40.389  2770  2770 D Surface : Surface::allocateBuffers(this=0x7350272000)
+04-16 16:37:40.389  2770  3064 D Surface : Surface::connect(this=0x7350272000,api=1)
+04-16 16:37:40.389   407   433 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher#0](this:0x784d65e000,id:182,api:1,p:2770,c:407) connect(P): api=1 producer=(2770:com.bbk.launcher2) producerControlledByApp=true
+04-16 16:37:40.391   913  5449 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:40.392  2770  3064 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, egl_color_buffer_format *, EGLBoolean) returns 0x3000
+04-16 16:37:40.393  1335  1335 D ImageWallpaper: onOffsetsChanged: xOffset=0.0, yOffset=0.0, xOffsetStep=0.0, yOffsetStep=0.0, xPixels=0, yPixels=0
+04-16 16:37:40.395   913  1129 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:40.395  1335  1335 D ImageWallpaper: drawFrame, newRotation:0 mLastRotation:0
+04-16 16:37:40.395  1335  1335 D ImageWallpaper: drawFrame, frame size:1080/2280; ForceDraw : false
+04-16 16:37:40.395  1335  1335 D ImageWallpaper: Suppressed drawFrame since redraw is not needed and offsets have not changed.
+04-16 16:37:40.397   913  4032 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:40.397   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d60e000,id:194,api:2,p:913,c:-1) disconnect(C)
+04-16 16:37:40.398   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x784d670000,id:196,api:2,p:913,c:-1) disconnect(C)
+04-16 16:37:40.398   407   407 I BufferQueueConsumer: [Splash Screen com.yunshouhu.hellojni:Inset#0](this:0x784d60f800,id:195,api:2,p:913,c:-1) disconnect(C)
+04-16 16:37:40.400   913  4032 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:40.403   913  1129 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:40.403   913  4032 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:40.405   913  4032 I WindowManager: Launcher not resumed, delay app transition.
+04-16 16:37:40.408   913   990 I vivo_debug_StackTransition: updateMulitWindowSpecifiedWindowDrawnState obj = Token{3389f0f ActivityRecord{fa82c6e u0 com.bbk.launcher2/.Launcher t2}}
+04-16 16:37:40.408   913   981 W ActivityManager: user_experience_improve_plan is open.Skipping crash dialog.
+04-16 16:37:40.409  1569 23892 D GameModeManager: isGameWatchAPP packageName:com.yunshouhu.hellojni
+04-16 16:37:40.409   913   981 D VivoLocationNotify: onProcessDied: pid=28189, uid=10420
+04-16 16:37:40.409  1842  3479 D _V_AIE-UsageDetailAppCollector: onProcessDied_PID = 28189 ,uid = 10420
+04-16 16:37:40.410   913  1211 D VivoLocationNotify: handleMessage 1
+04-16 16:37:40.410   913  1211 D VivoLocationNotify: getAppName com.yunshouhu.hellojni
+04-16 16:37:40.410   913  1211 D VivoLocationNotify: appName:com.yunshouhu.hellojni
+04-16 16:37:40.410  1842  2475 D _V_AIE-UsageDetailAppCollector: deleteDiedAppList_getUid()=10420
+04-16 16:37:40.410  1842  2475 D _V_AIE-UsageDetailAppCollector: deleteDiedAppList_getPid()=28189
+04-16 16:37:40.410  1842  2475 D _V_AIE-UsageDetailAppCollector: deleteDiedAppList_mForgroundInfo_pid=28189,mForgroundInfo_pkgName=com.yunshouhu.hellojni,mForgroundInfo_uid=10420,mBackgroundInfo_pid=2770,mBackgroundInfo_pkgName=com.bbk.launcher2,mBackgroundInfo_uid=10035
+04-16 16:37:40.410  5179 16304 I FloatWindowManagerService: get top = com.bbk.launcher2
+04-16 16:37:40.411  1842  2475 D _V_AIE-UsageDetailAppCollector: getversionCode=1
+04-16 16:37:40.411  1842  2475 D _V_AIE-UsageDetailAppCollector: getVersionName_name=1.0
+04-16 16:37:40.411  1569 25564 W MotorModeDaemonService: process died pid : 28189 mMotorModePid: -1
+04-16 16:37:40.412   913  3489 I WindowManager: overridePendingAppTransitionThumbFromLauncher, bmpWidth = null, bmpHeight = null, startX = 540, startY = 1140, scaleUp = false, animateExit = true, isTransitionSet() = true, mNextAppTransitionType = 0
+04-16 16:37:40.412   913  3489 I WindowManager: after overridePendingAppTransitionThumbFromLauncher
+04-16 16:37:40.412  5073  5219 I _V_UsageAppManager: deleteDiedAppList_getUid()=10420
+04-16 16:37:40.412  5073  5219 I _V_UsageAppManager: deleteDiedAppList_getPid()=28189
+04-16 16:37:40.412  5073  5219 I _V_UsageAppManager: deleteDiedAppList_mForgroundInfo_pid=28189,mForgroundInfo_pkgName=com.yunshouhu.hellojni,mForgroundInfo_uid=10420,mBackgroundInfo_pid=2770,mBackgroundInfo_pkgName=com.bbk.launcher2,mBackgroundInfo_uid=10035
+04-16 16:37:40.412  5073  5219 I _V_UsageAppManager: getversionCode=1
+04-16 16:37:40.412  5073  5219 I _V_UsageAppManager: getVersionName_name=1.0
+04-16 16:37:40.412   913   998 D PowerManagerService: fgApp changed!
+04-16 16:37:40.413  5073  5219 I _V_UsageAppManager: getversionCode=1
+04-16 16:37:40.413  5073  5219 I _V_UsageAppManager: getVersionName_name=1.0
+04-16 16:37:40.413  1569  1569 I VivoDaemonServiceApp: notify mSuspendModeManager
+04-16 16:37:40.414  2770  2770 D Launcher: onResume -- mState = WORKSPACE
+04-16 16:37:40.415  2770  2770 D Launcher: launcher onResume duration: 23
+04-16 16:37:40.415   913  1261 D ScreenBrightnessModeRestore: pakage name is com.yunshouhu.hellojniwith :10420
+04-16 16:37:40.415   913  1261 D ScreenBrightnessModeRestore:  onProcessDiedInner, pid = 28189 , mCurrentForceGroundPid = 28189 mAppName: com.yunshouhu.hellojni mWaitToRestore=false
+04-16 16:37:40.415  2770  2770 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = ViewRoot{858c57c com.bbk.launcher2/com.bbk.launcher2.Launcher,ident = 0}, this = DecorView@ab22b4e[Launcher]
+04-16 16:37:40.415  5179 16304 I FloatWindowManagerService: lst n : com.yunshouhu.hellojni is not al , swi to eg !
+04-16 16:37:40.416   913   981 D View    : [Warning] assignParent to null: this = DecorView@c4bbe22[hellojni]
+04-16 16:37:40.417   913  1186 V NetworkStats: setKernelCounterSet uid=10420 set=0
+04-16 16:37:40.417   913  1261 D ScreenBrightnessModeRestore: mRunnable try to restore, mLastScreenBrightness: 37 mWaitToRestoreBrightness: false mWaitToRestoreMode: false mLastScreenMode: 1
+04-16 16:37:40.418   913   981 I CatcherGestureDetector: DecorView onDetached
+04-16 16:37:40.418   913   981 D Surface : Surface::disconnect(this=0x733c079000,api=2)
+04-16 16:37:40.418   407   782 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d60e000,id:194,api:2,p:913,c:-1) disconnect(P): api 2
+04-16 16:37:40.419  2770  2770 D Launcher: onWindowFocusChanged ,  hasFocus = true
+04-16 16:37:40.419   913  1129 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:40.420   913   981 D Surface : Surface::disconnect(this=0x733c1dc000,api=2)
+04-16 16:37:40.420   407  2331 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni:Inset#0](this:0x784d60f800,id:195,api:2,p:913,c:-1) disconnect(P): api 2
+04-16 16:37:40.420   407   432 I BufferQueue: [Splash Screen com.yunshouhu.hellojni#0](this:0x784d60e000,id:194,api:2,p:-1,c:-1) ~BufferQueueCore
+04-16 16:37:40.420   913  1129 D WindowManager: activity is force full screen activity: false
+04-16 16:37:40.420  2770  3068 D Surface : lockCanvas
+04-16 16:37:40.420   913   981 D Surface : Surface::disconnect(this=0x733bfd8000,api=2)
+04-16 16:37:40.421  1842  2475 D _V_AIE-f: wifi enable
+04-16 16:37:40.421   407   432 I BufferQueueProducer: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x784d670000,id:196,api:2,p:913,c:-1) disconnect(P): api 2
+04-16 16:37:40.421   407   432 I BufferQueue: [Splash Screen com.yunshouhu.hellojni:Inset#0](this:0x784d60f800,id:195,api:2,p:-1,c:-1) ~BufferQueueCore
+04-16 16:37:40.422  2770  3068 D Surface : Surface::connect(this=0x7350273000,api=2)
+04-16 16:37:40.424  1860  1860 I UpSlideHelper: UpSlide|toggleUpSlideViewInCamera isInCamera = false
+04-16 16:37:40.424   913   984 I BootReceiver: Copying /data/tombstones/tombstone_03 to DropBox (SYSTEM_TOMBSTONE)
+04-16 16:37:40.424  1842  2052 D _V_AIE-ActivityMonitor: notifyActivityResumed ActivityInfo{componentName=ComponentInfo{com.bbk.launcher2/com.bbk.launcher2.Launcher}, packageInfo=PackageInfo{5bf393c com.bbk.launcher2}}
+04-16 16:37:40.424  1842  2052 D _V_AIE-PageGrab-PageGrabManager: [onActivityResumed]
+04-16 16:37:40.424  1842  2052 D _V_AIE-PageGrab-PageGrabManager: FgPage changed, cancel all
+04-16 16:37:40.424   913   981 W WindowManager: Failed looking up window callers=com.android.server.wm.WindowManagerService.windowForClientLocked:6744 com.android.server.wm.WindowManagerService.removeWindow:2045 com.android.server.wm.Session.remove:222 
+04-16 16:37:40.424  5073  5146 V _V_SingleDBHelper: onOpen
+04-16 16:37:40.425   913   981 D WindowClient: Remove from mViews: DecorView@c4bbe22[hellojni], this = android.view.WindowManagerGlobal@b1d70aa
+04-16 16:37:40.424   407   432 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset:Sub#0](this:0x78575fc000,id:184,api:2,p:2770,c:407) connect(P): api=2 producer=(2770:com.bbk.launcher2) producerControlledByApp=true
+04-16 16:37:40.425   913  6120 I PackageManager: ### pkg:Package{f376876 com.vivo.vtouch}
+04-16 16:37:40.425   407   782 I BufferQueue: [Splash Screen com.yunshouhu.hellojni:Inset:Sub#0](this:0x784d670000,id:196,api:2,p:-1,c:-1) ~BufferQueueCore
+04-16 16:37:40.425   913  6120 E ActivityManager: Sending non-protected broadcast vivo.vtouch.application.resumed from system 3634:com.vivo.contentcatcher/1000 pkg com.vivo.contentcatcher
+04-16 16:37:40.426   913  2577 D InputMethodManagerService: windowGainedFocus isPasswordInputType:false
+04-16 16:37:40.426   913  6120 E ActivityManager: Sending non-protected broadcast vivo.vtouch.application.resumed from system 3634:com.vivo.contentcatcher/1000 pkg com.vivo.contentcatcher
+04-16 16:37:40.427  3401 16282 I FloatingBallDiplomat: FloatingBall|appTransitionStarting >> packageName =com.bbk.launcher2 activityName = com.bbk.launcher2.Launcher
+04-16 16:37:40.427   400   425 I vendor.mediatek.hardware.power@1.1-impl: PowerHint hint:8, data:0
+04-16 16:37:40.428  2146  5084 I _V_RMS-Reclaim: available=3309840KB, current watermark=1126400KB, last watermark=1126400KB, current stopline=800, last stopline=1000
+04-16 16:37:40.428  2146  5084 I _V_RMS-Reclaim: Reclaiming took : 1ms
+04-16 16:37:40.430  3634  3703 D _V_ContentCatcher-TouchCatcherService: cur package = com.bbk.launcher2 class = com.bbk.launcher2.Launcher
+04-16 16:37:40.430  3634  3703 D _V_ContentCatcher-TouchCatcherService: [notifyFavoriteAppChange] mAllConfigComponents is null
+04-16 16:37:40.430  1842 28219 D _V_AIE-FgAppTrigger: activityResumed & resumedPkgName = com.bbk.launcher2
+04-16 16:37:40.430  1842 28219 D _V_AIE-FgPageTrigger: activityResumed & PackageName = com.bbk.launcher2
+04-16 16:37:40.431  1842  2475 D _V_AIE-UsageDetailAppCollector: getTemperature_temp=28.0
+04-16 16:37:40.432  1842 28219 D _V_AIE-LocalPersistence: [insert]  BaseEventTableManager = class com.vivo.awarecontext.persistence.db.collect.event.FgPageEventTableManager
+04-16 16:37:40.432  1842  2475 D _V_AIE-UsageDetailAppCollector: silentOrVibrateMode=false
+04-16 16:37:40.432   913  2577 D IdleScreen: activityIdleScreen: android.app.ContextImpl@4d69111 mNotifyNeeded: false idleIntent: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800100 cmp=com.bbk.launcher2/.Launcher }
+04-16 16:37:40.432  1842  2475 D _V_AIE-UsageDetailAppCollector: vibrateSetting=true
+04-16 16:37:40.432  1842  2475 D _V_AIE-UsageDetailAppCollector: checkflightModeValuee=0
+04-16 16:37:40.433  1842  2475 D _V_AIE-UsageDetailAppCollector: getNotificationNum=0
+04-16 16:37:40.433  1842  2475 D _V_AIE-UsageDetailAppCollector: paramsUpload succ
+04-16 16:37:40.433   913  2577 E PowerHalWrapper: <amsBoostStop> duration: 6000ms
+04-16 16:37:40.433   407  2331 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset:Sub#0](this:0x78575fc000,id:184,api:2,p:2770,c:407) queueBuffer: fps=1.61 dur=1238.45 max=1061.77 min=176.69
+04-16 16:37:40.433  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:40.433  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:40.434  2770  3068 D Surface : lockCanvas
+04-16 16:37:40.434  2770  3068 D Surface : Surface::connect(this=0x7350284000,api=2)
+04-16 16:37:40.434  3728  3862 I _V_VTouch-TouchScan-j: onForegroundActivitiesChanged: ComponentInfo{com.bbk.launcher2/com.bbk.launcher2.Launcher}
+04-16 16:37:40.434  3728  3862 I _V_VTouch-TouchScan-j: mForegroundPackageName: com.bbk.launcher2,lastPackageName:com.bbk.launcher2
+04-16 16:37:40.434  1842  2475 D _V_AIE-UsageDetailAppCollector: getversionCode=1
+04-16 16:37:40.434  1842  2475 D _V_AIE-UsageDetailAppCollector: getVersionName_name=1.0
+04-16 16:37:40.434  1842  2475 D _V_AIE-UsageDetailAppCollector: LBSLocationTask.getInstance().startLocation
+04-16 16:37:40.434   407   432 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0](this:0x784d70e800,id:183,api:2,p:2770,c:407) connect(P): api=2 producer=(2770:com.bbk.launcher2) producerControlledByApp=true
+04-16 16:37:40.434  1842  2475 D _V_AIE-LBS-LBSLocationTask: startLocation callback: com.vivo.aiengine.services.collect.a.j$2@643d6c5  scaleTime: 600000
+04-16 16:37:40.434  1842  2475 D _V_AIE-LBS-LBSLocationTask: mLastLocation is Valid.
+04-16 16:37:40.434  1842  2475 D _V_AIE-UsageDetailAppCollector: onLocSuccess
+04-16 16:37:40.438   407   432 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0](this:0x784d70e800,id:183,api:2,p:2770,c:407) queueBuffer: fps=1.61 dur=1238.67 max=1065.56 min=173.10
+04-16 16:37:40.448   407   407 E SurfaceFlinger: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0] rejecting buffer: bufWidth=1, bufHeight=1, front.active.{w=1080, h=0}
+04-16 16:37:40.448   913   922 I zygote64: Background concurrent copying GC freed 28675(1982KB) AllocSpace objects, 17(6MB) LOS objects, 12% free, 42MB/48MB, paused 118us total 127.401ms
+04-16 16:37:40.450  3155  3155 D SogouIME: SogouIME mHandler = 98
+04-16 16:37:40.455  1842 28219 D _V_AIE-DbEventDispatcher: FgPageEvent changed【insert rowIds [7397]】【update count 0】【delete count 0】
+04-16 16:37:40.456  1842  2389 D _V_AIE-DbEventDispatcher: handleInsertEvent rowId is 7397
+04-16 16:37:40.470   913   989 I PackageManager: ### pkg:Package{9b1bfe4 com.bbk.iqoo.logsystem}
+04-16 16:37:40.470   913   980 D PackageManager: isPackageAvailable com.bbk.iqoo.logsystem, userId 0, result true, callingUid 1000
+04-16 16:37:40.470   913   980 D ActivityManager: StartMode2 packageName = com.bbk.iqoo.logsystem ,callingPid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{a693134 u0a56 PER  change:active|uncached procs:1 seq(0,0,0)}
+04-16 16:37:40.470   913 28212 W AES     : Exception Log handling...
+04-16 16:37:40.478   913   989 I PackageManager: ### pkg:Package{9b1bfe4 com.bbk.iqoo.logsystem}
+04-16 16:37:40.479   913   980 D PackageManager: isPackageAvailable com.bbk.iqoo.logsystem, userId 0, result true, callingUid 1000
+04-16 16:37:40.479   913   980 D ActivityManager: StartMode2 packageName = com.bbk.iqoo.logsystem ,callingPid = -1 ,alwaysRestrict = true ,startMode = 2 ,UidRec:UidRecord{a693134 u0a56 PER  change:active|uncached procs:1 seq(0,0,0)}
+04-16 16:37:40.525   913 28212 D AES     : ExceptionLog: notify aed (process:com.yunshouhu.hellojni pid:28189 cause:data_app_native_crash )
+04-16 16:37:40.525   913 28212 W AES     : native_crash should be processed by aee already
+04-16 16:37:40.599  2770  3068 D Surface : lockCanvas
+04-16 16:37:40.599  2770  3064 W OpenGLRenderer: Incorrectly called buildLayer on View: lll1l1l, destroying layer...
+04-16 16:37:40.599  2770  3064 W OpenGLRenderer: Incorrectly called buildLayer on View: lll1l1l, destroying layer...
+04-16 16:37:40.602  2770  3068 D Surface : lockCanvas
+04-16 16:37:40.615   407   407 E SurfaceFlinger: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0] rejecting buffer: bufWidth=1, bufHeight=1, front.active.{w=1080, h=0}
+04-16 16:37:40.643   913   922 I zygote64: NativeAlloc concurrent copying GC freed 49659(2MB) AllocSpace objects, 26(13MB) LOS objects, 17% free, 29MB/35MB, paused 131us total 120.903ms
+04-16 16:37:40.700  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:40.700  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:40.700   913  1129 I WindowManager: appTransitionStateChanged, mVivoTransitionOnGoing = false
+04-16 16:37:40.702  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:40.702  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:40.804  1760  1945 W System  : ClassLoader referenced unknown path: system/framework/mediatek-cta.jar
+04-16 16:37:40.805  1760  1945 I System.out: e:java.lang.ClassNotFoundException: com.mediatek.cta.CtaHttp
+04-16 16:37:40.805  1760  1945 I System.out: [OkHttp] sendRequest>>
+04-16 16:37:40.805  1760  1945 I System.out: [OkHttp] sendRequest<<
+04-16 16:37:40.889   913   990 W WindowManager: mExitingMultiWindowRunnable:force send MULTIWINDOW_TRANSACTION_TIMEOUT
+04-16 16:37:40.891  1760  1945 W System  : ClassLoader referenced unknown path: system/framework/mediatek-cta.jar
+04-16 16:37:40.892  1760  1945 I System.out: e:java.lang.ClassNotFoundException: com.mediatek.cta.CtaHttp
+04-16 16:37:40.892  1760  1945 I System.out: [OkHttp] sendRequest>>
+04-16 16:37:40.892  1760  1945 I System.out: [OkHttp] sendRequest<<
+04-16 16:37:40.960  1760  1945 V pem     : UpdateAppTypeRun updateAppTypeRun again, delayTime = 60000, pkg = com.yunshouhu.hellojni
+04-16 16:37:40.990   913   990 I vivo_debug_StackTransition: updateMultiWindowTransTimeOut
+04-16 16:37:40.990   913   990 I vivo_debug_StackTransition: closeVivoTransitionLocked mUseSpecialAnim = false
+04-16 16:37:41.016  2770  2770 I Launcher.Utilities: setHomeIndicatorState start ====> ! type:1
+04-16 16:37:41.033   913  2577 D WindowManager: activity is force full screen activity: false
+04-16 16:37:41.034  1335  1335 I StatusBarColorController: SystemUI|onStatusBarBackgroundChanged:  componentName= ComponentInfo{com.bbk.launcher2/com.bbk.launcher2/com.bbk.launcher2.Launcher}, statusBarIconStyle = -1, statusBarBgColor = 0, mIsBgColorLight= false, mIsLightFlag= false, isLauncher= true, isKeyguardShowing= false
+04-16 16:37:41.034  1335  1335 I StatusBarColorController: SystemUI|setIconsDark: mIsIconsDark= false, dark= false, mBarMode= 4, mIconStyle= -1, animate= false, mIsLightFlag= false
+04-16 16:37:41.035  2770  2770 D Surface : Surface::disconnect(this=0x7350284000,api=2)
+04-16 16:37:41.035   407   432 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0](this:0x784d70e800,id:183,api:2,p:2770,c:407) disconnect(P): api 2
+04-16 16:37:41.035   407   432 I BufferQueueConsumer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset#0](this:0x784d70e800,id:183,api:2,p:-1,c:407) getReleasedBuffers: returning mask 0xffffffffffffffff
+04-16 16:37:41.035  2770  2770 D Surface : Surface::disconnect(this=0x7350273000,api=2)
+04-16 16:37:41.035   407   432 I BufferQueueProducer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset:Sub#0](this:0x78575fc000,id:184,api:2,p:2770,c:407) disconnect(P): api 2
+04-16 16:37:41.035   407   432 I BufferQueueConsumer: [com.bbk.launcher2/com.bbk.launcher2.Launcher:Inset:Sub#0](this:0x78575fc000,id:184,api:2,p:-1,c:407) getReleasedBuffers: returning mask 0xffffffffffffffff
+04-16 16:37:41.072   407   407 I DisplayDevice: [Built-in Screen (type:0)] fps:36.268436,dur:1268.32,max:340.28,min:14.21
+04-16 16:37:41.230  2770  2804 V BBKWeather-frm: getWidgetWeatherInfo realTimeStr = 2020-04-16 16:37:41
+04-16 16:37:41.237  2770  2804 E BitmapFactory: Unable to decode stream: java.io.FileNotFoundException: /oem/etc/theme/icons/dynamic_icon/com.vivo.weather/res/drawable-sw360dp-xxhdpi/dynamic_weather_cloudy.png (No such file or directory)
+04-16 16:37:41.240  2770  2804 E BitmapFactory: Unable to decode stream: java.io.FileNotFoundException: /oem/etc/theme/icons/dynamic_icon/com.vivo.weather/res/drawable-sw360dp-xxhdpi/dynamic_weather_degree.png (No such file or directory)
+04-16 16:37:41.241  2770  2804 E BitmapFactory: Unable to decode stream: java.io.FileNotFoundException: /oem/etc/theme/icons/dynamic_icon/com.vivo.weather/res/drawable-sw360dp-xxhdpi/dynamic_weather_minus.png (No such file or directory)
+04-16 16:37:41.470  1335  1457 I VivoNetworkController: SystemUI|mWifiEnabled && mWifiConnected = true, mWifiLevelIconId = 2131233059, mWifiActivityIconId = 2131233054
+04-16 16:37:41.486   407  2331 I BufferQueueProducer: [StatusBar#0](this:0x7857cdc800,id:8,api:1,p:1335,c:407) queueBuffer: fps=1.60 dur=1251.94 max=1101.83 min=150.11
+04-16 16:37:41.863  1677  7468 I UDC_CDBootManager: Dropbox folder is exists = true
+04-16 16:37:41.864  1677  7468 I UDC_CDBootManager: My dropbox folder is exists = true
+04-16 16:37:41.864  1677  7468 I UDC_CDBootManager: This file has copied.
+04-16 16:37:41.869  1677  7468 I chatty  : uid=10056(com.bbk.iqoo.logsystem) pool-2-thread-1 identical 73 lines
+04-16 16:37:41.869  1677  7468 I UDC_CDBootManager: This file has copied.
+04-16 16:37:41.890  1677  7468 E         : nFreeSize: 33302929408
+04-16 16:37:41.905  1677  7468 E         : nFreeSize: 33302827008
+04-16 16:37:41.920  1677  7468 E         : nFreeSize: 33302720512
+04-16 16:37:41.935  1677  7468 E         : nFreeSize: 33302634496
+04-16 16:37:41.936  1677  7468 I UDC_DataRecevier: isTombstoneExisting = true
+04-16 16:37:41.937  1677  7468 I UDC_LogControlCenter: Before delete log space: 363.25KB
+04-16 16:37:41.950  1677  7468 I UDC_ToolUtils: It has not reached a limited time.
+04-16 16:37:41.951  1677  1677 I UDC_LogControlRunner: onPreExecute
+04-16 16:37:41.964  1677  7468 I UDC_LogInfoHelper: After fetch file name, data had clear up.
+04-16 16:37:41.965  1677  7468 I UDC_LogControlRunner: Copy one drobox gz file.
+04-16 16:37:41.965  1677  7468 E         : nFreeSize: 33302544384
+04-16 16:37:41.967  1677  7468 I UDC_LogControlCenter: Before delete log space: 439.88KB
+04-16 16:37:41.968  1677  7468 I UDC_ComponentsUtil: availMem = 3358441472, threshold = 226492416
